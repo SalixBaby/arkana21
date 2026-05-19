@@ -1,12 +1,12 @@
-### **1. Einleitung**
+### 1. Einleitung
 
 >*Willkommen bei **Arkana21**, einem fesselnden Rollenspielsystem, das dich in eine Welt voller Abenteuer, Magie und taktischer Herausforderungen entführt. Ob als tapferer Kämpfer, meisterhafter Zauberwirker oder geschickter Spezialist – dein Schicksal liegt in deinen Händen.*
 >***Arkana21** bietet dir die Freiheit, einzigartige Charaktere zu erschaffen und in einer lebendigen Welt spannende Geschichten zu erleben. Dabei steht das Zusammenspiel von **Kampf, Magie und Erkundung** im Mittelpunkt. Jeder Aspekt des Spiels fordert deinen Einfallsreichtum, deine Planung und dein Geschick heraus – sei es in epischen Schlachten, bei der Entschlüsselung uralter Geheimnisse oder bei der Navigation durch komplexe soziale Strukturen.*
 
-##### **1.1 Das Ziel von Arkana21**
+##### 1.1 Das Ziel von Arkana21
 Das Ziel des Spiels ist es, gemeinsam mit deinen Mitspielern in eine dynamische Geschichte einzutauchen, die von der Spielleitung geleitet wird. Dabei geht es nicht nur darum, Monster zu besiegen oder Schätze zu erlangen, sondern auch darum, die Welt und ihre Mysterien zu erkunden, moralische Entscheidungen zu treffen und das Vermächtnis deines Charakters zu gestalten.
 
-##### **1.2 Die Grundprinzipien**
+##### 1.2 Die Grundprinzipien
 **Kooperation und Kreativität:** In **Arkana21** steht das gemeinsame Erzählen einer Geschichte im Vordergrund. Jeder Spieler bringt seine eigene Perspektive und Kreativität ein, um die Welt lebendig zu gestalten.
 **Flexibilität und Individualität:** Das System bietet eine Vielzahl an Klassen, Hintergründen und Fähigkeiten, die es dir ermöglichen, deinen Charakter nach deinen Vorstellungen zu gestalten.
 **Taktische Tiefe:** Ob im Kampf oder bei sozialen Interaktionen – strategisches Denken und die geschickte Nutzung von Ressourcen spielen eine zentrale Rolle.
@@ -14,12 +14,12 @@ Das Ziel des Spiels ist es, gemeinsam mit deinen Mitspielern in eine dynamische 
 In Arkana21 bist du nicht an vorgefertigte Zauberlisten gebunden.
 Statt restriktiver Auswahl gibt dir das System die Freiheit, jeden Zauber individuell zu erschaffen – kreativ, situationsbezogen und maßgeschneidert auf deinen Charakter. Die Magie folgt deinen Ideen, nicht umgekehrt.
 
-##### **1.3 Überblick über das System**
+##### 1.3 Überblick über das System
 Arkana21 kombiniert die Eleganz eines modularen Attributssystems mit tiefgehenden Klassenmechaniken und einem dynamischen Kampfsystem. Jeder Charakter wird durch drei Kernattribute definiert: **Körper**, **Geist** und **Seele**, die jeweils unterschiedliche Aspekte deiner Fähigkeiten repräsentieren. Das System ist darauf ausgelegt, den Spielern sowohl taktische Entscheidungsfreiheit als auch erzählerische Tiefe zu bieten.
 Ob du dich als mächtiger Magier den arkanen Kräften verschreibst, als unerschrockener Kämpfer für Gerechtigkeit kämpfst oder als charismatischer Vermittler Konflikte löst – **Arkana21** lädt dich ein, deine eigene Legende zu schreiben. Die Welt wartet nur darauf, von dir entdeckt und geprägt zu werden.
 Mach dich bereit für eine Reise voller Herausforderungen, Gefahren und unbegrenzter Möglichkeiten.
 
-##### **1.4 Proben und Würfelwürfe**
+##### 1.4 Proben und Würfelwürfe
 In **Arkana21** wird immer dann gewürfelt, wenn der Ausgang einer Handlung ungewiss ist – sei es beim Erklimmen einer steilen Wand, beim Knacken eines komplizierten Schlosses oder beim Versuch, jemanden geschickt zu belügen.  
 Die Spielleitung legt fest, wann eine Probe erforderlich ist, welches Attribut oder welche Eigenschaft zum Tragen kommt und wie hoch der Schwierigkeitsgrad der Aufgabe ist.
 
@@ -45,14 +45,14 @@ Diese Flexibilität fördert kreatives Rollenspiel und macht jede Szene einzigar
 
 ---
 
-### **2. Charaktererschaffung**
+### 2. Charaktererschaffung
 
 <a href="./Arkana21_Charakterbogen_Vorlage.pdf" target="_blank" download="Arkana21_Charakterbogen">Arkana21 Charakterbogen</a>
 
-##### **2.1 Starte mit einer Charakteridee**  
+##### 2.1 Starte mit einer Charakteridee  
 Überlege dir, wer dein Charakter ist. Ist er ein mutiger Krieger, ein listiger Dieb oder ein weiser Magier? Wie ist sein Hintergrund, welche Ziele verfolgt er, und welche Persönlichkeit hat er? Diese erste Vorstellung bildet das Fundament für deinen Helden.
 
-##### **2.2 Wähle eine Klasse**  
+##### 2.2 Wähle eine Klasse  
 Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfügbaren Optionen. Jede Klasse bringt besondere Fähigkeiten mit sich, die den Spielstil deines Charakters prägen. Die Klassen sind in zwei Kategorien unterteilt:
 
 - **Kampfklassen** für physische Stärke, Taktik oder Kampfkunst.
@@ -65,7 +65,7 @@ Jede Klasse verfügt über zwei unterschiedliche Variationen, die verschiedene F
 >[!example]- *Beispiel* 
 >*Du entscheidest dich für die Klasse **Jäger** und die Variation **Waldläufer**, eine Kampfklasse, die sich auf Präzision und Geschicklichkeit spezialisiert.*
 
-##### **2.3 Wähle ein Volk**  
+##### 2.3 Wähle ein Volk  
 Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein grobes Aussehen, Kultur und einige Fähigkeiten. Wähle ein Volk, das sich für dich am interessantesten anhört.
 
 [[./Völker/-Völker-|Völkerübersicht]]
@@ -73,7 +73,7 @@ Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein 
 >[!example]- *Beispiel* 
  >*Dein Charakter ist ein Lupari (Wolfvolk) und verlässt sich gerne auf seine Nase. Dies lässt sich gut mit seiner Klasse des Jägers verbinden.*
 
-##### **2.4 Wähle einen Hintergrund**  
+##### 2.4 Wähle einen Hintergrund  
 Der Hintergrund deines Charakters beschreibt seine Herkunft und bisherigen Erfahrungen. Er gibt dir zusätzliche Fertigkeiten, Wissen und Eigenschaften, die deinem Helden mehr Tiefe verleihen. Wähle einen Hintergrund, der zur Lebensgeschichte deines Charakters passt.
 
 [[./Hintergründe/-Hintergründe-|Hintergrundsübersicht]]
@@ -136,7 +136,7 @@ Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkt
 >Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 2 (Konstitution) + 1 (Level) x 2 = 7 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10
 
 
-##### **2.9 Wähle deine Zauberausrichtungen**  
+##### 2.9 Wähle deine Zauberausrichtungen  
 Bestimme nun die Zauberausrichtungen, mit denen dein Charakter vertraut ist. Für Magieklassen ist diese Wahl von entscheidender Bedeutung, da sie bestimmt, welche Arten von Zaubern sie wirken können. Doch auch für Kampfklassen ist sie nicht minder wichtig: Selbst wenn dein Held keine Magie wirken kann, so kennt er doch die Sprachen der Zauberei – und weiß, ihre Formen und Wirkungen zu erkennen.
 
 
@@ -144,7 +144,7 @@ Bestimme nun die Zauberausrichtungen, mit denen dein Charakter vertraut ist. Fü
 >Dein Jäger wirkt selbst keine Zauber, kennt sich jedoch mit den Ausrichtungen Dunkelheit, Sinne, Erde, Luft und Wasser aus. Er kann die entsprechenden Zauber daher einschätzen und identifizieren.
 
 
-##### **2.10 Wähle deine Ausrüstung**  
+##### 2.10 Wähle deine Ausrüstung  
 Zum Schluss stattest du deinen Charakter mit passender Ausrüstung aus. Wähle Waffen, Rüstungen und andere Gegenstände, die zu deiner Klasse und deinem Hintergrund passen. Achte darauf, dass Rüstungen deine Bewegungsrate beeinflussen können:
 
 - [[./Ausrüstungen/Waffen/-Waffen-|Waffen]] (Maximal 2 Waffen, wobei nicht beide [[./Ausrüstungen/Waffen/Waffeneigenschaften/Schwer|Schwer]] sein dürfen)
@@ -156,14 +156,14 @@ Zum Schluss stattest du deinen Charakter mit passender Ausrüstung aus. Wähle W
 >Dein Jäger trägt leichte Rüstung, die 2 Bewegungspunkte kostet, wodurch seine Bewegungsrate auf 5 reduziert wird. Als Waffe trägt er einen Bogen und ein Kurzschwert.
 
 
-##### **2.11 Sei kreativ und hab Spaß!**  
+##### 2.11 Sei kreativ und hab Spaß!  
 Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abenteuer zusammen mit deinen Freunden erleben. Und ob ihr die Helden oder die Bösen sein wollt, am wichtigsten ist es jedoch: Habt Spaß!
 
 ---
 
-### **3. Spielleitung und Spieler**
+### 3. Spielleitung und Spieler
 
-##### **3.1 Aufgaben des Spielleiters**
+##### 3.1 Aufgaben des Spielleiters
 
 - **Szenarien vorbereiten:** Der Spielleiter entwirft Abenteuer und sorgt für eine spannende, kohärente Handlung, die die Spieler motiviert.
 - **Nicht-Spieler-Charaktere (NPCs):** Erschaffung und Darstellung von NPCs, die die Welt beleben und auf Aktionen der Spieler reagieren.
@@ -173,7 +173,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 
 ---
 
-##### **3.2 Weltgestaltung**
+##### 3.2 Weltgestaltung
 
 - **Städte und Dörfer:** Erstellen von Orten mit eigener Kultur, Geschichte und Bevölkerung. Jede Stadt sollte Besonderheiten aufweisen, die sie von anderen unterscheidet.
 - **Abenteuer:** Entwickeln von Quests mit klaren Zielen, Herausforderungen und Belohnungen. Die Spieler sollten das Gefühl haben, ihre Umgebung beeinflussen zu können.
@@ -182,7 +182,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 
 ---
 
-##### **3.3 Nicht-Spieler-Charaktere (NPCs)**
+##### 3.3 Nicht-Spieler-Charaktere (NPCs)
 
 - **Erstellung von NPCs:** Wichtige NPCs sollten einzigartige Persönlichkeiten, Ziele und Hintergründe haben. Sie können Verbündete, Feinde oder neutrale Figuren sein.
 - **Interaktion:** NPCs sind oft die Hauptvermittler von Informationen und Quests. Sie reagieren auf die Handlungen der Spieler und können sich durch deren Entscheidungen entwickeln.
@@ -190,7 +190,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 
 ---
 
-##### **3.4 Kreaturen, Monster und Gegner**
+##### 3.4 Kreaturen, Monster und Gegner
 
 - **Erstellung:** Alle Gegner sollten zu den Themen des Abenteuers passen. Sie können klassische Fantasiewesen, Banditen oder individuell gestaltete Monster sein.
 - **Werte:** Generell kann der SL alle Gegner so gestallten wie es am besten zur Geschichte passt. Für Anfänger gibt es jedoch eine einfache Möglichkeit herausfordernde aber nicht immer tödliche Gegner zu erschaffen:
@@ -202,7 +202,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 
 ---
 
-##### **3.5 Aufgaben des Spielers**
+##### 3.5 Aufgaben des Spielers
 
 - **Charaktererstellung:** Die Spieler erstellen Charaktere mit Hintergrundgeschichten, Zielen und Werten. Ein gut ausgearbeiteter Charakter trägt zur Immersion bei.
 - **Verstehen der Fähigkeiten:** Spieler sollten die Fähigkeiten und Werte ihres Charakters kennen, um sie effektiv im Spiel einsetzen zu können.
@@ -212,9 +212,9 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 
 ---
 
-### **4. Kampfregeln**
+### 4. Kampfregeln
 
-##### **4.1 Kampfablauf**
+##### 4.1 Kampfablauf
 
  **4.1.1 Initiative**
 - Der Kampf beginnt, sobald der Spielleiter ihn ansagt. Aktionen, die vorher ausgeführt wurden und in einen Kampf münden, können das Kampfgeschehen entscheidend beeinflussen. Eine gute Koordination unter den Spielern wird belohnt.
@@ -292,7 +292,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Umzingelung**: Wenn ein Gegner von mindestens zwei Seiten gleichzeitig im Nahkampf bedroht wird, erhalten **alle** Angriffe gegen ihn einen Bonus.
 - **Hinterhalt**: Überraschst du einen Gegner (z. B. durch Heimlichkeit oder Magie), erhält du einen Bonus auf deinen ersten Angriff.
 
-##### **4.2 Schaden**
+##### 4.2 Schaden
 
 **4.2.1 Waffenschaden**
 - Jede Waffe verursacht in der Regel **1-2 Schaden** normalen Schaden.
@@ -314,7 +314,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Elementarschaden** – Feuer, Eis, Blitz, Gift, Säure und ähnliche Natur- oder Magiekräfte, die direkt auf den Körper einwirken.
 - **Spezialschaden** – Heilige, infernale oder nekrotische Energien, die oft jenseits gewöhnlicher Verteidigung liegen. Dieser Schaden geht meist von Göttern, finsteren Mächten oder Wesen aus, die nicht dieser Welt entstammen.
 
-##### **4.3 Waffen**
+##### 4.3 Waffen
 
 **4.3.1 Waffenarten**
 - **Nahkampfwaffen:** Schwert, Dolch, Axt usw.
@@ -339,7 +339,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Parieren:** Ermöglicht es, Angriffe abzuwehren (Reaktion).
 - **Zielsicher:** Ermöglicht es, Schwachstellen zu treffen (erhöht Trefferchance).
 
-##### **4.4 Magie im Kampf**
+##### 4.4 Magie im Kampf
 
 **4.4.1 Angriffszauber**
 - Angriffszauber kosten **1 AP** und eine definierte Menge an Mana, abhängig von ihrer Stärke.
@@ -362,8 +362,8 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 
 ---
 
-### **5. Magie und Zauberkunst**
-##### **5.1 Zauberausrichtungen**
+### 5. Magie und Zauberkunst
+##### 5.1 Zauberausrichtungen
 
 **5.1.1 Überblick:**  
 Zauberausrichtungen bestimmen die Art und Weise, wie Magie im Spiel eingesetzt wird. Sie repräsentieren die Verbindung des Charakters zu bestimmten Kräften, Konzepten oder Elementen und prägen den Stil der Zaubernutzung.
@@ -406,7 +406,7 @@ Die Magie in Arkana21 ist vielseitig und wird in verschiedene Zauberarten untert
 
 ---
 
-##### **5.2 Zaubernutzung**
+##### 5.2 Zaubernutzung
 
 **5.2.1 Durchführung von Zaubern**
 
@@ -424,7 +424,7 @@ Klassische Zauber wie „Feuerball“ oder „Eisspeer“ können als Inspiratio
 
 ---
 
-##### **5.2.2 Mana, Zauberstufen & Überladung**
+##### 5.2.2 Mana, Zauberstufen & Überladung
 
 Ein Zauber zu wirken kostet **kein Mana**, solange er auf seiner **Grundstufe (Stufe 0)** bleibt.  
 Mana wird erst dann eingesetzt, wenn der Zauber **verstärkt oder überladen** wird – also über seine normale Stärke hinaus.
@@ -440,7 +440,7 @@ Wird ein Zauber über seine Grundstufe hinaus verstärkt, so gilt:
 
 ---
 
-##### **5.2.3 Zauberkombinationen**
+##### 5.2.3 Zauberkombinationen
 
 Zauber können kombiniert werden, um komplexe oder mächtigere Effekte zu erzeugen.  
 Dies kann durch mehrere Magier oder durch unterschiedliche Zauberquellen eines einzelnen Charakters geschehen.
@@ -454,7 +454,7 @@ Der **Spielleiter** entscheidet, ob die Kombination gelingt, welche Boni oder Ri
 
 ---
 
-##### **5.2.4 Struktur eines Zaubers**
+##### 5.2.4 Struktur eines Zaubers
 
 Jeder Zauber in _Arkana21_ besteht aus vier Grundkomponenten:
 
@@ -528,9 +528,9 @@ Diese Boni **ergänzen**, aber **ersetzen** nicht den Einsatz von Mana.
 > Letztlich liegt die Entscheidung – wie immer – beim **Spielleiter**.
 ---
 
-### **6. Charakterentwicklung**
+### 6. Charakterentwicklung
 
-##### **6.1 Levelaufstieg**
+##### 6.1 Levelaufstieg
 In Arkana21 ist der Levelaufstieg mehr als nur ein Zahlenwert – er stellt einen wichtigen Meilenstein in der Reise und Entwicklung eines Charakters dar. Neue Fähigkeiten und Kenntnisse werden nicht „einfach so“ erlangt, sondern spiegeln die Erfahrungen, Herausforderungen und Erfolge des Helden wider. Ein Charakter, der plötzlich Wissen über Handel und Wirtschaft erhält, mag dies durch Begegnungen mit Kaufleuten, diplomatische Verhandlungen oder gar Verluste und Gewinne auf dem Markt erlangt haben. Jede neu erlernte Fähigkeit und jedes zusätzliche Wissen sollten im Spielverlauf eine logische und erzählerische Grundlage haben, die die innere und äußere Entwicklung des Charakters nachvollziehbar macht.
 Bei einem Levelaufstieg werden folgende Werte automatisch aufgewertet: 
  1. **Attribute**:
@@ -546,7 +546,7 @@ Bei einem Levelaufstieg werden folgende Werte automatisch aufgewertet:
 6. **Zauberausrichtungen-Wissen**:
     - **Berechnung**: Wissen + 3 + Level
 
-##### **6.2 Klassenkombination**
+##### 6.2 Klassenkombination
 Die Möglichkeit, mehrere Klassen zu kombinieren, erlaubt es Charakteren, sich über die Grenzen ihrer ursprünglichen Klasse hinaus zu entwickeln. Diese sogenannte **Multiklassen-Option** bietet Flexibilität und eröffnet neue Möglichkeiten zur Charaktergestaltung – allerdings nur, wenn es **geschichtenbezogen Sinn ergibt**.
 
 **6.2.1 Verzicht auf reguläre Fähigkeiten:**
@@ -565,9 +565,9 @@ Der Charakter bleibt weiterhin primär in seiner Hauptklasse.
 
 ---
 
-### **7. Spielmechaniken und Begriffserklärung**
+### 7. Spielmechaniken und Begriffserklärung
 
-##### **7.1 Ausbildungspunkte**
+##### 7.1 Ausbildungspunkte
 >***Ausbildungspunkte** in Arkana21 repräsentieren die spezialisierte Bildung und das Wissen, das dein Charakter während seines Lebens gesammelt hat. Sie ermöglichen es dir, zusätzliche Fähigkeiten und Kenntnisse zu erlangen, die deinen Charakter einzigartig und anpassungsfähig machen.*
 
 **Nutzung:**
@@ -618,21 +618,21 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 **Berechnung:** Der Wert der Eigenschaften wird durch die verteilten Talentpunkte und das übergeordnete Kernattribut bestimmt. Wenn du etwa einen Geist-Wert von 2 hast und 1 Talentpunkt auf **Fokus** verteilst, wird der endgültige Wert von **Fokus** 3 betragen.
 **Verbesserung durch Heldenstufen:** Mit jeder Heldenstufe erhältst du neue Talentpunkte, die du in deine Eigenschaften investieren kannst. Dadurch steigt dein Charakter im Laufe des Spiels immer weiter in seinen Spezialgebieten auf und wird zu einem mächtigen Helden.
 
-##### **7.6 Kampfklasse**
+##### 7.6 Kampfklasse
 >*Kampfklassen sind Meister im Nah- und Fernkampf, die ihre Fähigkeiten mit Waffen und Taktiken perfektionieren. Diese Charaktere verlassen sich auf ihre körperliche Stärke und Reflexe, um Feinde zu überwältigen.*
 
 - **Gelegenheitsangriff**: Kampfklassen können Gelegenheitsangriffe durchführen, wenn sich Feinde aus ihrem Angriffsradius entfernen.
 - **Ausdauerpunkte zurückgewinnen**: Durch kritische Treffer können sie verbrauchte Ausdauerpunkte zurückerhalten, was ihnen mehr Möglichkeiten im Kampf bietet.
 - **Waffenfähigkeiten und -Eigenschaften nutzen**: Sie sind in der Lage, spezielle Waffenfähigkeiten und -Eigenschaften wie Parieren, Aufschlitzen oder Betäuben zu verwenden, um das Schlachtfeld zu dominieren. Dies gilt im Normalfall nur für die Waffen, die in der Charaktererstellung verwendet werden. Dein Charakter kann sich später mit anderen Waffen vertraut machen.
 
-##### **7.7 Zauberklasse**
+##### 7.7 Zauberklasse
 >*Zauberklassen setzen die Kraft der Magie ein, um die Realität zu formen, ihre Feinde zu besiegen und ihre Verbündeten zu unterstützen. Sie schöpfen ihre Kraft aus Mana und den Zauberausrichtungen.*
 
 - **Zauber wirken**: Zauberklassen können mächtige Zauber aus verschiedenen Zauberausrichtungen wirken, um ihre Gegner zu besiegen oder Verbündeten zu helfen.
 - **Mana-Punkte**: Diese Klassen verfügen über Mana-Punkte, die sie für ihre Zauber einsetzen. Diese regenerieren sich während Pausen oder durch spezielle Fähigkeiten.
 - **Zauberduell**: Zauberklassen können im direkten Wettstreit der Magie stehen und ein Zauberduell führen, bei dem sie ihre arkane Kraft gegen die eines anderen Magienutzers messen.
 
-##### **7.8 Bonus & Malus**
+##### 7.8 Bonus & Malus
 > _**Bonus und Malus** in Arkana21 sind Mechaniken, die bestimmte Proben beeinflussen können, indem sie zusätzliche Würfelergebnisse einbeziehen. Sie spiegeln vorteilhafte oder nachteilige Umstände wider, die das Schicksal deines Charakters beeinflussen._
 
 **Nutzung:**
@@ -644,7 +644,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Ein Malus tritt ein, wenn widrige Bedingungen, Ablenkungen oder körperliche/magische Beeinträchtigungen vorliegen.
 - Generell gilt: Bonus/Malus ist stapelbar (mehrere Bonus/Malus werden addiert) außer es ist explizit ausgeschlossen.
 
-##### **7.9 Glücksproben**
+##### 7.9 Glücksproben
 > _**Glücksproben** kommen dann zum Einsatz, wenn weder die Fähigkeiten eines Charakters noch das Wissen des Spielleiters eine klare Antwort liefern. Wenn eine Entscheidung dem Zufall überlassen werden soll, entscheidet das Schicksal – in Form eines einfachen Wurfs._
 
 **Nutzung:**
@@ -657,7 +657,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Glücksproben eignen sich für spontane Entscheidungen, Zufallsergebnisse oder unvorhersehbare Umstände – z. B. ob jemand zufällig am richtigen Ort ist, ob ein vergessener Schlüssel noch im Schloss steckt oder ob der Boden unter einem alten Brett nachgibt.
 - Sie sind normalerweise unabhängig von den Werten oder Fähigkeiten des Charakters und spiegeln reine Zufälligkeit wider.
 
-##### **7.10 Zustände**
+##### 7.10 Zustände
 > _**Zustände** beschreiben anhaltende Effekte, die eine Kreatur im Laufe eines Abenteuers beeinflussen können. Sie wirken sich direkt auf Proben aus – entweder positiv oder negativ – und können durch Magie, Rast oder Zeit überwunden werden._
 
 **Grundprinzipien:**
@@ -686,7 +686,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 > _Negative Zustände vergehen unterschiedlich schnell. Manche verschwinden **automatisch nach einigen Runden oder Minuten** wogegen andere **aktive Hilfe, Magie oder ein Heilmittel** erfordern._
 > _**Erschöpfung** kann ausschließlich durch eine **lange Rast** gelindert werden. Sie steht sinnbildlich für körperliche, geistige und magische Überlastung – etwas, das nur durch Zeit und Ruhe geheilt werden kann. Pro langer Rast kann eine Erschöpfung gelindert werden. Erreicht eine Kreatur jedoch den fünften Punkt an Erschöpfung, erliegt sie der völligen Erschöpfung und stirbt sofort._
 
-#### **7.11 Rast**
+#### 7.11 Rast
 > _**Rasten** erlaubt es deinem Charakter, sich von den Strapazen des Abenteurerlebens zu erholen. Sie stellt Ressourcen wieder her und markiert erzählerisch den Übergang zwischen intensiven Ereignissen._
 
 **Kurze Rast:**  
@@ -704,7 +704,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Während einer Rast können Handlungen wie Handwerk, Forschung, Studium oder Training erfolgen – jedoch nur, wenn die Rast nicht durch äußere Einflüsse gestört wird.
 - Die Spielleitung kann Rastzeiten an die Welt und Geschichte anpassen – in gefährlichen Regionen sind selbst kurze Rasten ein Luxus.
 
-#### **7.12 Auszeit**
+#### 7.12 Auszeit
 
 > _**Auszeit** beschreibt die Zeit zwischen Abenteuern, in der Charaktere ihren eigenen Zielen nachgehen. Sie dient der Erholung, dem Wachstum und der persönlichen Entwicklung._
 
