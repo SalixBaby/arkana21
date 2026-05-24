@@ -369,36 +369,42 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 Zauberausrichtungen bestimmen die Art und Weise, wie Magie im Spiel eingesetzt wird. Sie repräsentieren die Verbindung des Charakters zu bestimmten Kräften, Konzepten oder Elementen und prägen den Stil der Zaubernutzung.
 
 **Elementar**
+
 1. **Erde** – Kontrolle über den Boden und Gravitation.
 2. **Feuer** – Manipulation von Flammen und Hitze.
 3. **Luft** – Kontrolle über Wind und das Fliegen.
 4. **Wasser** – Beherrschung von Flüssigkeiten und Eis.
    
 **Geist**
+
 5. **Kommunikation** – Verbindung und Austausch zwischen Wesen.
 6. **Manipulation** – Einflussnahme auf Emotionen, Gedanken und Handlungen.
 7. **Mental** – Stärkung des Geistes, mentale Angriffe und Verteidigung.
 8. **Traum** – Kontrolle und Erforschung über das Schlafen.
    
 **Körper**
+
 9. **Illusionen** – Erzeugung von Täuschungen, die Sinne verwirren.
 10. **Sinne** – Verstärkung oder Veränderung der Wahrnehmung.
 11. **Beschwörung** – Herbeirufen von Wesen, Objekten oder Energien.
 12. **Transformation** – Umgestaltung von Körpern oder Objekten.
-    
+
 **Kraft**
+
 13. **Dunkelheit** – Kontrolle über Schatten und das Verbergen von Licht.
 14. **Licht** – Erzeugung und Manipulation von Helligkeit und Strahlen.
 15. **Zeit** – Veränderung oder Manipulation des Zeitflusses.
 16. **Raum** - Veränderung oder Manipulation des Raums.
-    
+
 **Seele**
+
 17. **Fluch** – Auferlegung negativer Effekte oder Schicksale.
 18. **Heilung** – Reparatur von Verletzungen und Wiederherstellung von Gesundheit.
 19. **Schutz** – Errichtung von Barrieren und Verteidigungen.
 20. **Segen** – Vergabe von positiven Effekten und Verstärkungen.
-    
+
  **Nekromantie**
+ 
 21. **Nekromantie** – Kontrolle über das Leben nach dem Tod.
 
 
