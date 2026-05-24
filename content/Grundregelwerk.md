@@ -373,26 +373,31 @@ Zauberausrichtungen bestimmen die Art und Weise, wie Magie im Spiel eingesetzt w
 2. **Feuer** – Manipulation von Flammen und Hitze.
 3. **Luft** – Kontrolle über Wind und das Fliegen.
 4. **Wasser** – Beherrschung von Flüssigkeiten und Eis.
+   
 **Geist**
 5. **Kommunikation** – Verbindung und Austausch zwischen Wesen.
 6. **Manipulation** – Einflussnahme auf Emotionen, Gedanken und Handlungen.
 7. **Mental** – Stärkung des Geistes, mentale Angriffe und Verteidigung.
 8. **Traum** – Kontrolle und Erforschung über das Schlafen.
+   
 **Körper**
 9. **Illusionen** – Erzeugung von Täuschungen, die Sinne verwirren.
 10. **Sinne** – Verstärkung oder Veränderung der Wahrnehmung.
 11. **Beschwörung** – Herbeirufen von Wesen, Objekten oder Energien.
 12. **Transformation** – Umgestaltung von Körpern oder Objekten.
+    
 **Kraft**
 13. **Dunkelheit** – Kontrolle über Schatten und das Verbergen von Licht.
 14. **Licht** – Erzeugung und Manipulation von Helligkeit und Strahlen.
 15. **Zeit** – Veränderung oder Manipulation des Zeitflusses.
 16. **Raum** - Veränderung oder Manipulation des Raums.
+    
 **Seele**
 17. **Fluch** – Auferlegung negativer Effekte oder Schicksale.
 18. **Heilung** – Reparatur von Verletzungen und Wiederherstellung von Gesundheit.
 19. **Schutz** – Errichtung von Barrieren und Verteidigungen.
 20. **Segen** – Vergabe von positiven Effekten und Verstärkungen.
+    
  **Nekromantie**
 21. **Nekromantie** – Kontrolle über das Leben nach dem Tod.
 
@@ -436,7 +441,7 @@ Wird ein Zauber über seine Grundstufe hinaus verstärkt, so gilt:
 
 > **Beispiel:**  
 > Eine Magierin möchte ihren Feuerstoß (normal 1 Schaden) so verstärken, dass er 2 Schaden verursacht und doppelt so weit reicht.  
-> Dafür gibt sie **2 Mana** aus (einmal für +1 Schaden, einmal für +10 Felder Reichweite) und **1 AP** für die Überladung.
+> Dafür gibt sie **2 Mana** aus (einmal für +1 Schaden, einmal für +20 Felder Reichweite) und **1 AP** für die Überladung.
 
 ---
 
@@ -460,10 +465,11 @@ Jeder Zauber in _Arkana21_ besteht aus vier Grundkomponenten:
 
 | Aspekt         | Beschreibung                                | Standardwert (Stufe 0)          |
 | -------------- | ------------------------------------------- | ------------------------------- |
-| **Reichweite** | Wie weit der Zauber reicht                  | 10 Felder                       |
+| **Reichweite** | Wie weit der Zauber reicht                  | 20 Felder                       |
 | **Wirkung**    | Schaden oder Effektstärke                   | 1 Schaden oder einfacher Effekt |
 | **Ziel**       | Wie viele Wesen oder Objekte betroffen sind | 1 Ziel                          |
 | **Dauer**      | Wie lange der Effekt anhält                 | 1 Runde                         |
+| **Fläche**     | Radius der Flächenwirkung                   | 0 Felder                        |
 
 Diese Werte bilden die **Basis jedes Zaubers**, solange kein Mana investiert wird.
 
@@ -488,13 +494,13 @@ Diese Technik erlaubt feinere Kontrolle und gibt Spielern mehr Freiheit, den Sti
 Wird ein Zauber über seine Grundstufe hinaus verstärkt, kann Mana eingesetzt werden.  
 Jeder **Manapunkt** erlaubt **eine gezielte Verstärkung**:
 
-|Eingesetztes Mana|Verstärkung|
-|---|---|
-|+1 Mana|+1 Schaden oder stärkerer Effekt|
-|+1 Mana|+1 weiteres Ziel|
-|+1 Mana|+10 Felder Reichweite|
-|+1 Mana|+1 Feld Flächenwirkung|
-|+1 Mana|+1 Runde zusätzliche Dauer|
+| Eingesetztes Mana | Verstärkung                      |
+| ----------------- | -------------------------------- |
+| +1 Mana           | +1 Schaden oder stärkerer Effekt |
+| +1 Mana           | +1 weiteres Ziel                 |
+| +1 Mana           | +20 Felder Reichweite            |
+| +1 Mana           | +1 Feld Radius Flächenwirkung    |
+| +1 Mana           | +1 Runde zusätzliche Dauer       |
 
 > Das Überladen kostet **immer 1 AP**, unabhängig davon, wie viel Mana verwendet wird.
 
@@ -518,7 +524,7 @@ Diese Boni **ergänzen**, aber **ersetzen** nicht den Einsatz von Mana.
 
 | Komponente     | Basiswert          | Verstärkung durch Mana | Verstärkung durch Erfolg     |
 | -------------- | ------------------ | ---------------------- | ---------------------------- |
-| **Reichweite** | 10 Felder          | +10 Felder / Mana      | —                            |
+| **Reichweite** | 20 Felder          | +20 Felder / Mana      | —                            |
 | **Wirkung**    | 1 Schaden / Effekt | +1 / Mana              | Volltreffer +1 · Kritisch +2 |
 | **Ziel**       | 1 Person / Objekt  | +1 / Mana              | —                            |
 | **Dauer**      | 1 Runde            | +1 / Mana              | —                            |
