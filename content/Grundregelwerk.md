@@ -8,8 +8,11 @@ Das Ziel des Spiels ist es, gemeinsam mit deinen Mitspielern in eine dynamische 
 
 ##### 1.2 Die Grundprinzipien
 **Kooperation und Kreativität:** In **Arkana21** steht das gemeinsame Erzählen einer Geschichte im Vordergrund. Jeder Spieler bringt seine eigene Perspektive und Kreativität ein, um die Welt lebendig zu gestalten.
+
 **Flexibilität und Individualität:** Das System bietet eine Vielzahl an Klassen, Hintergründen und Fähigkeiten, die es dir ermöglichen, deinen Charakter nach deinen Vorstellungen zu gestalten.
+
 **Taktische Tiefe:** Ob im Kampf oder bei sozialen Interaktionen – strategisches Denken und die geschickte Nutzung von Ressourcen spielen eine zentrale Rolle.
+
 **Magische Vielfalt:** Die Magie in Arkana21 ist nicht nur ein Werkzeug, sondern ein mächtiges Element, das die Welt prägt und ihre Geheimnisse offenbart.
 In Arkana21 bist du nicht an vorgefertigte Zauberlisten gebunden.
 Statt restriktiver Auswahl gibt dir das System die Freiheit, jeden Zauber individuell zu erschaffen – kreativ, situationsbezogen und maßgeschneidert auf deinen Charakter. Die Magie folgt deinen Ideen, nicht umgekehrt.
