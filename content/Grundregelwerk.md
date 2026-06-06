@@ -506,7 +506,7 @@ Jeder **Manapunkt** erlaubt **eine gezielte Verstärkung**:
 | +1 Mana           | +1 weiteres Ziel                 |
 | +1 Mana           | +20 Felder Reichweite            |
 | +1 Mana           | +1 Feld Radius Flächenwirkung    |
-| +1 Mana           | +1 Runde zusätzliche Dauer       |
+| +1 Mana           | Konzentrationszauber             |
 
 > Das Überladen kostet **immer 1 AP**, unabhängig davon, wie viel Mana verwendet wird.
 
@@ -533,11 +533,29 @@ Diese Boni **ergänzen**, aber **ersetzen** nicht den Einsatz von Mana.
 | **Reichweite** | 20 Felder          | +20 Felder / Mana      | —                            |
 | **Wirkung**    | 1 Schaden / Effekt | +1 / Mana              | Volltreffer +1 · Kritisch +2 |
 | **Ziel**       | 1 Person / Objekt  | +1 / Mana              | —                            |
-| **Dauer**      | 1 Runde            | +1 / Mana              | —                            |
+| **Dauer**      | 1 Runde            | Konzentrationszauber   | —                            |
 
 > Diese Werte sind als **Richtlinien** gedacht, nicht als starre Regeln.  
 > Sie sollen Spielleiter und Spieler unterstützen, Effekte einzuschätzen und Magie flexibel zu gestalten.  
 > Letztlich liegt die Entscheidung – wie immer – beim **Spielleiter**.
+
+---
+
+##### 5.2.5 Konzentrationszauber
+
+Ein Zauber kann beim Wirken in einen Konzentrationszauber umgewandelt werden. Dies kostet beim Wirken +1 Mana zusätzlich zu allen anderen Manakosten. Der Zauber wirkt dann nicht nur einmalig, sondern bleibt aktiv und wiederholt seinen Effekt zu Beginn jedes Zuges des Zauberwirkers automatisch – ohne erneuten Wurf auf Arkana. Volltreffer und kritische Treffer sind dabei nicht möglich.
+
+---
+
+Einschränkungen
+
+| Bedingung             | Auswirkung                                                                                                                                                                  |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Konzentration halten  | Kostet 1 AP pro Runde. Nur ein Konzentrationszauber gleichzeitig möglich.                                                                                                   |
+| Schaden erleiden      | Fokusprobe (12 + erlittener Schaden). Misslingt sie, bricht die Konzentration und der Zauber endet sofort.                                                                  |
+| Ziel außer Reichweite | Der Zauber endet sofort. Die investierte Reichweite aus dem initialen Wirken gilt weiterhin – wer mehr Reichweite benötigt, muss beim Wirken entsprechend Mana investieren. |
+| Zauberduell           | Während ein Konzentrationszauber aufrechterhalten wird, kann der Zauberwirker kein Zauberduell führen.                                                                      |
+
 ---
 
 ### 6. Charakterentwicklung
