@@ -35,7 +35,7 @@
 #### **2. Level:**
 
 - **Energien umleiten**: Wenn dich jemand mit einem physischen Angriff verfehlt kannst du einen 1AP als Reaktion verwenden um diesen Angriff auf jemanden anders in einem Feld Entfernung umzuleiten. Ob dieser trifft entscheidet eine Angriffsprobe.
-  *(Ki-Aufwertung: Du kannst diese Fähigkeit nutzen ohne ihre AP-Kosten zu bezahlen.)*
+  *(Ki-Aufwertung: Du kannst diese Fähigkeit nutzen ohne ihre AP-Kosten zu bezahlen und erhältst auf die Angriffsprobe einen Bonus.)*
 - **Lähmender Schlag**: Du kanalisierst deine innere Energie in einen gezielten Treffer, der das Nervensystem deines Gegners stört. Für 1 AP kannst du, wenn du ohne Waffen angreifst, zwei Betäubung bei deinem Gegner verursachen.
   *(Ki-Aufwertung: Verursache eine zusätzliche Betäubung bei deinem Gegner.)*
 
@@ -49,8 +49,8 @@
 
 - **Innere Flamme**: Wenn du im Kampf auf 0 Gesundheit reduzierst wirst, kannst du einmal pro Tag deine Kräfte bündeln und 2 AP zusätzlich erhalten. Diese müssen in deinem nächsten Zug eingesetzt werden.
   *(Ki-Aufwertung: Du kannst die Innere Flamme mehrfach pro Tag verwenden und erhältst einen zusätzlichen AP für den nächsten Zug.)*
-- **Ki-Reflexe**: Du hast gelernt auf Angriffe blitzschnell zu reagieren. Du kannst einmal pro Runde für 2 AP jeden Schaden eines Angriffs um 2 reduzieren.
-  *(Ki-Aufwertung: Du kannst den Schaden um ein weiteren Schaden reduzieren.)*
+- **Schlaghagel**: Für 4 AP kannst du eine Kette waffenloser Angriffe ausführen. Nach jedem erfolgreichen Treffer darfst du sofort einen weiteren waffenlosen Angriff durchführen. Die Kette endet, sobald ein Angriff verfehlt.
+  *(Ki-Aufwertung: Du erhältst für jeden dieser Angriffe einen Bonus.)*
 
 #### **5. Level:**
 
