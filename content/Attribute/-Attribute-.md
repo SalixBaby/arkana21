@@ -8,18 +8,15 @@ Die drei Kernattribute – **Körper**, **Geist** und **Seele** – bilden die B
 
 1. **[[./Körper/-Körper-|Körper]]**
     Das Attribut _Körper_ repräsentiert die physischen Fähigkeiten deines Charakters. Es steht für Stärke, Ausdauer und die Fähigkeit, sich schnell und präzise zu bewegen.
-    - Typisch für Nahkämpfer, Jäger und Assassinen.
     - Beeinflusst Gesundheit, Bewegungsrate, und Ausdauer.
 
 2. **[[./Geist/-Geist-|Geist]]**
     Das Attribut _Geist_ steht für Intellekt, Wissen und magisches Verständnis. Es repräsentiert die Fähigkeit, analytisch zu denken, die Umgebung zu verstehen und Zauber zu wirken.
-    - Typisch für Magier, Priester und Taktiker.
-    - Beeinflusst Manapunkte und Wahrnehmung.
+    - Beeinflusst Manapunkte, Wahrnehmung und mentale Resilienz.
 
 3. **[[./Seele/-Seele-|Seele]]**
     Das Attribut _Seele_ steht für Charisma, Empathie und Intuition. Es repräsentiert die Fähigkeit, mit anderen zu interagieren, Emotionen zu lesen und andere zu überzeugen.
-    - Typisch für Künstler, Manipulatoren und Diplomaten.
-    - Beeinflusst die Stärke sozialer Interaktionen und mentale Resilienz.
+    - Beeinflusst die Stärke sozialer Interaktionen und das Inspirieren von Anderen.
 
 ---
 
