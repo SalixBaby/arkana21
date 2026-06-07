@@ -30,13 +30,13 @@
 - **Ki-Atmung**: Du beherrschst eine Atemtechnik, die dich geistig und körperlich stabilisiert. Einmal täglich kannst du dich in einem Moment der Ruhe zentrieren und eine negative Zustandsveränderung (außer Erschöpfung) ignorieren.
   *(Ki-Aufwertung: Die Ki-Atmung kostet dich 1 AP und kann im Kampf genutzt werden.)*
 - **Unbewaffnete Meisterschaft**: Du bist auch ohne Waffen gefährlich. Mit bloßen Fäuste zählst du als bewaffnet, und du kannst mit ihnen normalen Schaden verursachen.
-  *(Ki-Aufwertung: Dein Angriff mit bloßen Fäusten stoßt zusätzlich das Ziel um 1 Feld nach hinten.)*
+  *(Ki-Aufwertung: Dein Angriff mit bloßen Fäusten stoßt zusätzlich das Ziel um (Level x) Felder nach hinten.)*
 
 #### **2. Level:**
 
-- **Gedankenschild**: Du bist gegen mentale Angriffe gewappnet. Einmal pro Tag kannst du einen Effekt wie Furcht, Kontrolle oder Verwirrung einfach ignorieren.
-  *(Ki-Aufwertung: Du kannst für 2 AP dein Gedankenschild für diesen Tag erneuern.)*
-- **Lähmender Schlag**: Du kanalisierst deine innere Energie in einen gezielten Treffer, der das Nervensystem deines Gegners stört. Für 1 AP kannst du, wenn du ohne Waffen angreifst, eine Betäubung bei deinem Gegner verursachen.
+- **Energien umleiten**: Wenn dich jemand mit einem physischen Angriff verfehlt kannst du einen 1AP als Reaktion verwenden um diesen Angriff auf jemanden anders in einem Feld Entfernung umzuleiten. Ob dieser trifft entscheidet eine Angriffsprobe.
+  *(Ki-Aufwertung: Du kannst diese Fähigkeit nutzen ohne ihre AP-Kosten zu bezahlen.)*
+- **Lähmender Schlag**: Du kanalisierst deine innere Energie in einen gezielten Treffer, der das Nervensystem deines Gegners stört. Für 1 AP kannst du, wenn du ohne Waffen angreifst, zwei Betäubung bei deinem Gegner verursachen.
   *(Ki-Aufwertung: Verursache eine zusätzliche Betäubung bei deinem Gegner.)*
 
 #### **3. Level:**
