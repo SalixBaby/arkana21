@@ -54,7 +54,7 @@ AP werden im Kampf ausgegeben, um:
 - anzugreifen
 - sich zu bewegen
 - Fähigkeiten einzusetzen
-- Zauber zu verstärken
+- Zauber zu wirken/verstärken
 
 ---
 
