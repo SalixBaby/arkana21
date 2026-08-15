@@ -5,7 +5,7 @@
 
 - **Klassenkategorie:** Kampfklasse
 - **Klassenfähigkeit:** **Magische Kunst**
-    - Deine Kunst ist nicht nur schön – sie besitzt eine übernatürliche Wirkung. Ob durch Musik, Malerei, Poesie oder eine andere Ausdrucksform: Du kannst mit deiner Kunst das Verhalten anderer beeinflussen, magische Effekte hervorrufen oder sogar die Zukunft vorhersehen.
+    - Deine Kunst besitzt eine übernatürliche Wirkung. Wähle beim Erstellen deines Charakters eine Ausdrucksform – Musik, Malerei, Poesie, Tanz oder jede andere künstlerische Disziplin. Diese Ausdrucksform ist dein Medium, um andere zu beeinflussen, magische Effekte hervorzurufen oder sogar die Zukunft vorherzusehen. Du erhältst zusätzliche (Level x) Inspirationspunkte. Anders als andere Klassen kannst du Inspirationspunkte auch für dich selbst einsetzen.
 
 ___
 
