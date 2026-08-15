@@ -78,7 +78,11 @@ function toggleFolder(evt: MouseEvent) {
   const fullFolderPath = currentFolderParent.dataset.folderpath as string
   toggleCollapsedByPath(currentExplorerState, fullFolderPath)
   const stringifiedFileTree = JSON.stringify(currentExplorerState)
+  try {
   localStorage.setItem("fileTree", stringifiedFileTree)
+    } catch {
+      // localStorage blockiert (z.B. iOS "Immer alle Cookies blockieren") – Zustand wird dann nicht gespeichert
+    }
 }
 
 function setupExplorer() {
@@ -87,7 +91,12 @@ function setupExplorer() {
 
   for (const explorer of allExplorers) {
     // Get folder state from local storage
-    const storageTree = localStorage.getItem("fileTree")
+    let storageTree: string | null = null
+      try {
+        storageTree = localStorage.getItem("fileTree")
+      } catch {
+        storageTree = null
+      }
 
     // Convert to bool
     const useSavedFolderState = explorer?.dataset.savestate === "true"
