@@ -17,11 +17,11 @@
 #### **Variationen:**
 
 - **Tierfokus**: Deine Verbindung zu Tieren ist instinktiv, und sie sehen dich als einen der ihren.  Du denkst, handelst und reagierst mit der Klarheit eines Raubtiers – wachsam, fokussiert und ungezähmt.
-    - Bonus auf [[../Attribute/Körper/Instinkt|Instinkt]]
+    - Bonus auf [[Attribute/Körper/Instinkt|Instinkt]]
     - Wissen und Bonus in Naturkunde/Kreaturen und in Überleben/Orientierung
     - Gestaltenwandlung in Tierform
 - **Pflanzenfokus**: Du bist eins mit der ruhigen, unbeirrbaren Kraft des Pflanzenreichs. Du hörst das Flüstern alter Bäume, spürst das Wachstum junger Triebe und verstehst, wie das Leben selbst sich durch Wurzeln und Sporen fortsetzt.
-    - Bonus auf [[../Attribute/Geist/Erfahrung|Erfahrung]]
+    - Bonus auf [[Attribute/Geist/Erfahrung|Erfahrung]]
     - Wissen und Bonus in Naturkunde/Kreaturen und in Überleben/Orientierung
     - Gestaltenwandlung in Pflanzen- oder Pilzform
 
