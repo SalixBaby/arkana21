@@ -12,13 +12,13 @@ ___
 #### **Variationen:**
 
 - **Virtuose**: Dein Talent liegt in der Darbietung – sei es Musik, Schauspiel oder Tanz. Deine Auftritte können verzaubern, beruhigen oder aufwühlen.
-    - Bonus auf [[../Attribute/Seele/Auftritt|Auftritt]]
-    - Bonus auf [[../Attribute/Seele/Überzeugen|Überzeugen]]
+    - Bonus auf [[Attribute/Seele/Auftritt|Auftritt]]
+    - Bonus auf [[Attribute/Seele/Überzeugen|Überzeugen]]
     - Wissen und doppelten Bonus in Kunst/Kultur
 - **Visionär**: Deine Kunst ist nicht nur emotional, sondern fast prophetisch. Mit deinen Bildern, Skulpturen oder Schriften kannst du Visionen einfangen oder sogar in die Zukunft blicken.
-    - Bonus auf [[../Attribute/Geist/Fokus|Fokus]]
-    - +1 auf [[../Attribute/Seele/Auftritt|Auftritt]]
-    - +1 auf [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]
+    - Bonus auf [[Attribute/Geist/Fokus|Fokus]]
+    - +1 auf [[Attribute/Seele/Auftritt|Auftritt]]
+    - +1 auf [[Attribute/Geist/Wahrnehmung|Wahrnehmung]]
     - Wissen und doppelten Bonus in Kunst/Kultur
 
 ----
