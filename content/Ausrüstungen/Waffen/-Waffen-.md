@@ -1,6 +1,6 @@
 > _In **Arkana21** sind Waffen weit mehr als bloße Werkzeuge des Kampfes. Sie sind Verlängerungen des eigenen Willens, Ausdruck von Stil, Herkunft und Erfahrung. Jede Waffe erzählt davon, wie ein Held kämpft – entschlossen, vorsichtig, präzise oder rücksichtslos._
 
-Jede Waffe verfügt über eigene [[./Waffeneigenschaften/-Waffeneigenschaften-|Waffeneigenschaften]] und [[./Waffenfähigkeiten/-Waffenfähigkeiten-|Waffenfähigkeiten]], die bestimmen, wie du sie im Spiel einsetzt. Diese Eigenschaften legen fest, ob eine Waffe Geschwindigkeit belohnt, rohe Kraft entfesselt oder taktisches Vorgehen begünstigt.
+Jede Waffe verfügt über eigene [[Ausrüstungen/Waffen/Waffeneigenschaften/-Waffeneigenschaften-|Waffeneigenschaften]] und [[Ausrüstungen/Waffen/Waffenfähigkeiten/-Waffenfähigkeiten-|Waffenfähigkeiten]], die bestimmen, wie du sie im Spiel einsetzt. Diese Eigenschaften legen fest, ob eine Waffe Geschwindigkeit belohnt, rohe Kraft entfesselt oder taktisches Vorgehen begünstigt.
 
 Welche Waffe du führst, sollte zu deinem Kampfstil passen. Schnelle Klingen eignen sich für präzise Angriffe und bewegliches Spiel, schwere Waffen dominieren das Schlachtfeld mit Wucht und Durchschlagskraft. Fernwaffen erlauben es dir, Abstand zu halten und das Gefecht zu kontrollieren, während leise oder unauffällige Waffen ideal für Hinterhalte und gezielte Schläge sind.
 

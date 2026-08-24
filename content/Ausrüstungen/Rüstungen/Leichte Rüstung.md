@@ -6,7 +6,7 @@
 - **Schutz**: Reduziert 2x physischen Schaden um 1.
 - **Typische Materialien**: Gehärtetes Leder, Ledersegmente, leichtes Kettengeflecht.
 - **Anlegen / Ablegen**: 1 Minute / 30 Sekunden.
-- **Reparatur**: Kann mit [[../Ausrüstungssets/Lederhandwerks Set|Lederhandwerks Set]]  oder vom professionellem Lederer repariert werden. Dauert 1 Stunde.
+- **Reparatur**: Kann mit [[Ausrüstungen/Ausrüstungssets/Lederhandwerks Set|Lederhandwerks Set]]  oder vom professionellem Lederer repariert werden. Dauert 1 Stunde.
 
-- **Nachteil**: Verringert die [[../../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]] um 1.
+- **Nachteil**: Verringert die [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]] um 1.
 - **Anforderung**: Keine.

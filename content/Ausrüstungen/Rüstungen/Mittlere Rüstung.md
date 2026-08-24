@@ -6,7 +6,7 @@
 - **Schutz**: Reduziert 4x physischen Schaden um 1.
 - **Typische Materialien**: Kettenhemden, Schuppenpanzer, gehärtete Lederplatten mit Metallverstärkung.
 - **Anlegen / Ablegen**: 5 Minuten / 1 Minute. (Kann mit Hilfe halbiert werden)
-- **Reparatur**: Kann mit [[../Ausrüstungssets/Schmiede Set|Schmiede Set]] oder vom professionellem Schmied repariert werden. Dauert 8 Stunden.
+- **Reparatur**: Kann mit [[Ausrüstungen/Ausrüstungssets/Schmiede Set|Schmiede Set]] oder vom professionellem Schmied repariert werden. Dauert 8 Stunden.
 
-- **Nachteil**: Verringert die [[../../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]] um 2.
+- **Nachteil**: Verringert die [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]] um 2.
 - **Anforderung**: Minimum Stärke von 1.
