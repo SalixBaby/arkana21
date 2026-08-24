@@ -12,12 +12,12 @@
 #### **Variationen:**
 
 - **Inquisitor**: Kein Frevler entkommt deinem Blick, keine Lüge überdauert dein Urteil. Du jagst Ketzer und Abtrünnige mit fanatischem Eifer und setzt deine göttlichen Kräfte ein, um Feinde zu richten.
-    - Bonus auf [[../Attribute/Körper/Instinkt|Instinkt]]
-    - +1 [[../Attribute/Körper/Stärke|Stärke]]
+    - Bonus auf [[Attribute/Körper/Instinkt|Instinkt]]
+    - +1 [[Attribute/Körper/Stärke|Stärke]]
     - Wissen in Religion/Mythen
 - **Templer**: Du bist der unbeugsame Schild deines Glaubens, ein Bollwerk gegen Häresie und Chaos. Deine Macht schützt Verbündete und gewährt dir übermenschliche Standhaftigkeit.
-    - +1 [[../Attribute/Körper/Konstitution|Konstitution]]
-    - +1 [[../Attribute/Seele/Überzeugen|Überzeugen]]
+    - +1 [[Attribute/Körper/Konstitution|Konstitution]]
+    - +1 [[Attribute/Seele/Überzeugen|Überzeugen]]
     - Wissen in Religion/Mythen
 
 ---
