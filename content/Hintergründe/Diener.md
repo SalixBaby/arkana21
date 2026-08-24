@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Beobachtung, Geduld, Haushaltsführung
 
 **Segen: Diskretion**
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]
+- +1 auf [[Attribute/Körper/-Körper-|Körper]] oder [[Attribute/Seele/-Seele-|Seele]]
 - Wissen in Kunst/Kultur
 - Grundwissen über verschiedene Hierarchien und Gepflogenheiten 
 
