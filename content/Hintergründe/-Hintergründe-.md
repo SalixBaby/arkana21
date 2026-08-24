@@ -5,11 +5,8 @@ Ein Hintergrund beschreibt, **woher dein Charakter stammt und was ihn geprägt h
 Wähle bedacht, denn **deine Vergangenheit bestimmt, wie du der Welt begegnest**, wem du vertraust und welche Wege dir offenstehen.
 
 [[./Adel|Adel]] - Aufgewachsen in Privilegien, Intrigen und Machtstrukturen. Du kennst Etikette, Einfluss und die Spielregeln der Herrschenden.
-
 [[./Athlet|Athlet]] - Dein Körper wurde durch Training, Wettkampf oder körperliche Disziplin geformt. Leistung, Ausdauer und Selbstkontrolle stehen im Fokus deines Lebens.
-
 [[./Bauer|Bauer]] - Ein Leben geprägt von harter Arbeit, einfachen Mitteln und dem Rhythmus der Natur. Du weißt, wie man mit wenig auskommt und durchhält.
-
 [[./Diener|Diener]] - Du hast im Schatten anderer gelebt und gelernt, zu beobachten statt aufzufallen. Gehorsam, Diskretion und Anpassungsfähigkeit prägen dich.
 
 [[./Forscher|Forscher]] - Getrieben von Neugier und Wissensdurst hast du Orte, Phänomene oder alte Geheimnisse untersucht. Unbekanntes schreckt dich nicht ab, sondern zieht dich an.
