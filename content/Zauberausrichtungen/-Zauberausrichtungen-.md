@@ -4,37 +4,37 @@
 #### Die Kategorien:
 
 ##### **1. Elementar**
-Die Elementarmagie umfasst die Urkräfte der Natur: [[./Elementar/Erde|Erde]], [[./Elementar/Feuer|Feuer]], [[./Elementar/Luft|Luft]], [[./Elementar/Wasser|Wasser]]
+Die Elementarmagie umfasst die Urkräfte der Natur: [[Zauberausrichtungen/Elementar/Erde|Erde]], [[Zauberausrichtungen/Elementar/Feuer|Feuer]], [[Zauberausrichtungen/Elementar/Luft|Luft]], [[Zauberausrichtungen/Elementar/Wasser|Wasser]]
 Diese Zauber sind greifbar, kraftvoll und oft zerstörerisch – sie erschaffen Flammen, Stürme, Wellen oder Beben. Doch Elementarmagie kann ebenso schöpferisch wirken: Sie formt Landschaften, verändert Materialien oder nutzt Naturkräfte wie **Gift, Eis oder Gravitation**.  
 Wer die Elemente meistert, lenkt das Fundament der Welt selbst.
 
 ---
 ##### **2. Geist**
-Die Magie des Geistes öffnet den Zugang zu Verstand, Emotion und Bewusstsein: [[./Geist/Kommunikation|Kommunikation]], [[./Geist/Manipulation|Manipulation]], [[./Geist/Mental|Mental]], [[./Geist/Traum|Traum]]
+Die Magie des Geistes öffnet den Zugang zu Verstand, Emotion und Bewusstsein: [[Zauberausrichtungen/Geist/Kommunikation|Kommunikation]], [[Zauberausrichtungen/Geist/Manipulation|Manipulation]], [[Zauberausrichtungen/Geist/Mental|Mental]], [[Zauberausrichtungen/Geist/Traum|Traum]]
 Diese Zauber durchdringen den Geist anderer, beeinflussen Gedanken, lenken Emotionen oder erschaffen Visionen.  
 Geistmagier verstehen, dass Macht nicht immer laut ist – manchmal genügt ein Flüstern in den Köpfen anderer.
 
 ---
 ##### **3. Körper**
-Die Körpermagie verändert Form, Wahrnehmung und Materie: [[./Körper/Beschwörung|Beschwörung]], [[./Körper/Illusionen|Illusionen]], [[./Körper/Sinne|Sinne]], [[./Körper/Transformation|Transformation]] 
+Die Körpermagie verändert Form, Wahrnehmung und Materie: [[Zauberausrichtungen/Körper/Beschwörung|Beschwörung]], [[Zauberausrichtungen/Körper/Illusionen|Illusionen]], [[Zauberausrichtungen/Körper/Sinne|Sinne]], [[Zauberausrichtungen/Körper/Transformation|Transformation]] 
 Sie erlaubt, das Sichtbare und Greifbare zu verändern – von der Verwandlung eines Körpers bis zur Erschaffung greifbarer Trugbilder oder neuer Gestalten. 
 Diese Magie überschreitet die Grenzen des Physischen und formt die Welt nach dem Willen ihres Anwenders.
 
 ---
 ##### **4. Kraft**
-Kraftmagie beschäftigt sich mit den unsichtbaren Prinzipien, die das Universum zusammenhalten: [[./Kraft/Dunkelheit|Dunkelheit]], [[./Kraft/Licht|Licht]], [[./Kraft/Raum|Raum]], [[./Kraft/Zeit|Zeit]]
+Kraftmagie beschäftigt sich mit den unsichtbaren Prinzipien, die das Universum zusammenhalten: [[Zauberausrichtungen/Kraft/Dunkelheit|Dunkelheit]], [[Zauberausrichtungen/Kraft/Licht|Licht]], [[Zauberausrichtungen/Kraft/Raum|Raum]], [[Zauberausrichtungen/Kraft/Zeit|Zeit]]
 Ihre Zauber manipulieren Wirklichkeit selbst – erhellen Schatten, verzerren Entfernungen, dehnen Augenblicke oder reißen Portale zwischen Orten auf.
 Diese Magie ist abstrakt und mächtig, sie formt die Gesetze der Welt, statt ihnen zu folgen.
 
 ---
 ##### **5. Seele**
-Die Seelenmagie wirkt auf das, was Leben und Schicksal verbindet: [[./Seele/Fluch|Fluch]], [[./Seele/Heilung|Heilung]], [[./Seele/Schutz|Schutz]], [[./Seele/Segen|Segen]]
+Die Seelenmagie wirkt auf das, was Leben und Schicksal verbindet: [[Zauberausrichtungen/Seele/Fluch|Fluch]], [[Zauberausrichtungen/Seele/Heilung|Heilung]], [[Zauberausrichtungen/Seele/Schutz|Schutz]], [[Zauberausrichtungen/Seele/Segen|Segen]]
 Sie stärkt die Lebenskraft, segnet Verbündete, verflucht Feinde oder webt Schilde aus reiner spiritueller Energie.
 Seelenmagier berühren das Unsichtbare – das, was in jedem Wesen brennt, doch kaum einer zu fassen vermag.
 
 ---
 ##### **6. Nekromantie**
-[[./Nekromantie/Nekromantie|Nekromantie]] befasst sich mit Tod, Verfall und dem, was jenseits des Lebens liegt.  
+[[Zauberausrichtungen/Nekromantie/Nekromantie|Nekromantie]] befasst sich mit Tod, Verfall und dem, was jenseits des Lebens liegt.  
 Ihre Zauber rufen die Essenzen Verstorbener, beleben Überreste oder offenbaren die Geheimnisse der Zwischenwelt. Diese Macht ist gefährlich, verführerisch und von vielen gefürchtet – wer sie nutzt, riskiert, selbst von der Dunkelheit berührt zu werden.
 > ⚠️ **Hinweis:**  
 > **Nekromantie** kann nicht frei gewählt werden. Sie wird nur durch **besondere Ereignisse, seltene Fertigkeiten oder dunkle Pakte** erlangt.

@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Verbergen, Heimlichkeit, illegaler Handel
 
 **Segen: Untergrundkontakte**
-- +1 auf [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]
+- +1 auf [[Attribute/Geist/-Geist-|Geist]] oder [[Attribute/Seele/-Seele-|Seele]]
 - Wissen und Bonus in Handel/Wirtschaft
 - Zugang zu Schwarzmärkten und illegalen Waren
 

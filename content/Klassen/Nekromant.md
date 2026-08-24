@@ -9,12 +9,12 @@
 #### **Variationen:**
 
 - **Totengräber**: Du wandelst an der Schwelle zwischen Leben und Tod. Für dich sind Gräber keine Endpunkte, sondern Quellen von Wissen und Wahrheit. 
-    - +1 [[../Attribute/Geist/Wissen|Wissen]]
-    - +1 [[../Attribute/Geist/Erfahrung|Erfahrung]]
+    - +1 [[Attribute/Geist/Wissen|Wissen]]
+    - +1 [[Attribute/Geist/Erfahrung|Erfahrung]]
     - Wissen in Religion/Mythen
 - **Bildner**: Du siehst Körper nicht als heilig oder verdorben, sondern als formbares Material. Knochen, Fleisch und Überreste sind für dich Werkstoffe, aus denen etwas Neues entstehen kann.
-	- +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
-	- +1 [[../Attribute/Geist/Fokus|Fokus]]
+	- +1 [[Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
+	- +1 [[Attribute/Geist/Fokus|Fokus]]
 	- Wissen in Medizin/Anatomie
 
 ---

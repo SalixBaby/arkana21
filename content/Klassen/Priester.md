@@ -12,12 +12,12 @@
 #### **Variationen:**
 
 - **Herold**: Du bist die Stimme einer höheren Macht. Du verkündest Willen, Warnung und Verheißung, sprichst Gebete wie Befehle und Worte wie Wahrheiten.
-	- +1 [[../Attribute/Seele/Einsicht|Einsicht]]
-	- +1 [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]
+	- +1 [[Attribute/Seele/Einsicht|Einsicht]]
+	- +1 [[Attribute/Geist/Wahrnehmung|Wahrnehmung]]
 	- Wissen und doppelter Bonus in Religion/Mythen
 - **Strahlender**: Du brauchst keinen Auftrag, keine heiligen Schriften – dein Glaube ist die Güte selbst. Du strebst danach, Heilung und Hoffnung zu bringen.
-	- +1 [[../Attribute/Seele/Überzeugen|Überzeugen]]
-	- +1 [[../Attribute/Geist/Fokus|Fokus]]
+	- +1 [[Attribute/Seele/Überzeugen|Überzeugen]]
+	- +1 [[Attribute/Geist/Fokus|Fokus]]
 	- Wissen und doppelter Bonus in Religion/Mythen
 
 ---

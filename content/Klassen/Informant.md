@@ -12,14 +12,14 @@
 #### **Variationen:**
 
 - **Detektiv**: Du beobachtest, analysierst und kombinierst. Du siehst, was anderen entgeht, und erkennst Muster, wo andere Chaos sehen. Deine Stärke liegt nicht im Angriff – sondern in Informationen.
-	- Bonus auf [[../Attribute/Geist/Erfahrung|Erfahrung]]
-    - +1 auf [[../Attribute/Geist/Wissen|Wissen]]
-    - +1 auf [[../Attribute/Seele/Einsicht|Einsicht]]
-    - +1 auf [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]
+	- Bonus auf [[Attribute/Geist/Erfahrung|Erfahrung]]
+    - +1 auf [[Attribute/Geist/Wissen|Wissen]]
+    - +1 auf [[Attribute/Seele/Einsicht|Einsicht]]
+    - +1 auf [[Attribute/Geist/Wahrnehmung|Wahrnehmung]]
 - **Ränkeschmied**: Du bist kein stiller Beobachter, sondern ein Strippenzieher. Dein Wissen ist eine Währung, und du weißt genau, wann du welche Information einsetzen musst.
-	- Bonus auf [[../Attribute/Seele/Intuition|Intuition]]
-	- +2 [[../Attribute/Seele/Täuschen|Täuschen]]
-	- +2 [[../Attribute/Seele/Überzeugen|Überzeugen]]
+	- Bonus auf [[Attribute/Seele/Intuition|Intuition]]
+	- +2 [[Attribute/Seele/Täuschen|Täuschen]]
+	- +2 [[Attribute/Seele/Überzeugen|Überzeugen]]
 	- Wissen in Politik/Diplomatie
 
 ---

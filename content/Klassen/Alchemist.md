@@ -12,14 +12,14 @@
 #### **Variationen:**
 
 - **Laborratte**: Deine ständige Nähe zu giftigen Dämpfen und Explosionen hat dich abgehärtet, doch deine Umgangsformen sind darunter verfallen.
-    - Malus auf [[../Attribute/Seele/Auftritt|Auftritt]]
-    - +2 [[../Attribute/Körper/Konstitution|Konstitution]]
-    - +1 [[../Attribute/Geist/Erfahrung|Erfahrung]]
+    - Malus auf [[Attribute/Seele/Auftritt|Auftritt]]
+    - +2 [[Attribute/Körper/Konstitution|Konstitution]]
+    - +1 [[Attribute/Geist/Erfahrung|Erfahrung]]
     - Wissen in Medizin/Anatomie
 - **Gaukler**: Du mischst dich unter das Volk, täuschst mit Alchemie-Tricks und gewinnst mit Charme das Vertrauen deiner Zuschauer.
-	- Bonus auf [[../Attribute/Seele/Auftritt|Auftritt]]
-    - +1 [[../Attribute/Seele/Überzeugen|Überzeugen]]
-    - +1 [[../Attribute/Seele/Einsicht|Einsicht]]
+	- Bonus auf [[Attribute/Seele/Auftritt|Auftritt]]
+    - +1 [[Attribute/Seele/Überzeugen|Überzeugen]]
+    - +1 [[Attribute/Seele/Einsicht|Einsicht]]
     - Wissen in Kunst/Kultur
 
 ---

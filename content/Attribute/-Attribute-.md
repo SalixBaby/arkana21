@@ -6,15 +6,15 @@
 
 Die drei Kernattribute – **Körper**, **Geist** und **Seele** – bilden die Basis aller Fähigkeiten deines Charakters. Sie spiegeln grundlegende körperliche, mentale und emotionale Aspekte wider.
 
-1. **[[./Körper/-Körper-|Körper]]**
+1. **[[Attribute/Körper/-Körper-|Körper]]**
     Das Attribut _Körper_ repräsentiert die physischen Fähigkeiten deines Charakters. Es steht für Stärke, Ausdauer und die Fähigkeit, sich schnell und präzise zu bewegen.
     - Beeinflusst Gesundheit, Bewegungsrate, und Ausdauer.
 
-2. **[[./Geist/-Geist-|Geist]]**
+2. **[[Attribute/Geist/-Geist-|Geist]]**
     Das Attribut _Geist_ steht für Intellekt, Wissen und magisches Verständnis. Es repräsentiert die Fähigkeit, analytisch zu denken, die Umgebung zu verstehen und Zauber zu wirken.
     - Beeinflusst Manapunkte, Wahrnehmung und mentale Resilienz.
 
-3. **[[./Seele/-Seele-|Seele]]**
+3. **[[Attribute/Seele/-Seele-|Seele]]**
     Das Attribut _Seele_ steht für Charisma, Empathie und Intuition. Es repräsentiert die Fähigkeit, mit anderen zu interagieren, Emotionen zu lesen und andere zu überzeugen.
     - Beeinflusst die Stärke sozialer Interaktionen und das Inspirieren von Anderen.
 
@@ -24,26 +24,26 @@ Die drei Kernattribute – **Körper**, **Geist** und **Seele** – bilden die B
 
 Die Kernattribute sind in jeweils fünf Eigenschaften unterteilt, die spezifischere Fähigkeiten deines Charakters beschreiben.
 
-**[[./Körper/-Körper-|Körper]]:**
-- **[[./Körper/Geschicklichkeit|Geschicklichkeit]]:** Präzise Bewegungen und Hand-Auge-Koordination. Beeinflusst das physische Treffen im Kampf.
-- **[[./Körper/Geschwindigkeit|Geschwindigkeit]]:** Bewegungstempo und Reaktionsfähigkeit. Beeinflusst Ausweichen und Bewegungsrate.
-- **[[./Körper/Instinkt|Instinkt]]:** Fähigkeit, schnell zu reagieren und Gefahren zu spüren. Beeinflusst kreative Proben und Initiative.
-- **[[./Körper/Konstitution|Konstitution]]:** Physische Ausdauer und Resistenz. Beeinflusst Gesundheit und Widerstand gegen physische Einflüsse.
-- **[[./Körper/Stärke|Stärke]]:** Körperkraft. Beeinflusst Sprungreichweite, Festhalten und Lähmen von Gegnern.
+**[[Attribute/Körper/-Körper-|Körper]]:**
+- **[[Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]:** Präzise Bewegungen und Hand-Auge-Koordination. Beeinflusst das physische Treffen im Kampf.
+- **[[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]:** Bewegungstempo und Reaktionsfähigkeit. Beeinflusst Ausweichen und Bewegungsrate.
+- **[[Attribute/Körper/Instinkt|Instinkt]]:** Fähigkeit, schnell zu reagieren und Gefahren zu spüren. Beeinflusst kreative Proben und Initiative.
+- **[[Attribute/Körper/Konstitution|Konstitution]]:** Physische Ausdauer und Resistenz. Beeinflusst Gesundheit und Widerstand gegen physische Einflüsse.
+- **[[Attribute/Körper/Stärke|Stärke]]:** Körperkraft. Beeinflusst Sprungreichweite, Festhalten und Lähmen von Gegnern.
 
-**[[./Geist/-Geist-|Geist]]:**
-- **[[./Geist/Arkana|Arkana]]:** Wissen und Kontrolle über magische Kräfte. Beeinflusst das Wirken und Verstärken von Zaubern.
-- **[[./Geist/Erfahrung|Erfahrung]]:** Praktisches Wissen und Problemlösungsfähigkeit. Beeinflusst kreative Proben und Initiative.
-- **[[./Geist/Fokus|Fokus]]:** Konzentrationsfähigkeit und mentale Stärke. Beeinflusst die Stabilität von Zaubern und Willenskraft.
-- **[[./Geist/Wahrnehmung|Wahrnehmung]]:** Fähigkeit, Details in der Umgebung wahrzunehmen. Beeinflusst Entdeckung und Überraschungen.
-- **[[./Geist/Wissen|Wissen]]:** Allgemeinbildung und intellektuelle Tiefe. Ermöglicht Zugang zu spezifischen Wissensgebieten.
+**[[Attribute/Geist/-Geist-|Geist]]:**
+- **[[Attribute/Geist/Arkana|Arkana]]:** Wissen und Kontrolle über magische Kräfte. Beeinflusst das Wirken und Verstärken von Zaubern.
+- **[[Attribute/Geist/Erfahrung|Erfahrung]]:** Praktisches Wissen und Problemlösungsfähigkeit. Beeinflusst kreative Proben und Initiative.
+- **[[Attribute/Geist/Fokus|Fokus]]:** Konzentrationsfähigkeit und mentale Stärke. Beeinflusst die Stabilität von Zaubern und Willenskraft.
+- **[[Attribute/Geist/Wahrnehmung|Wahrnehmung]]:** Fähigkeit, Details in der Umgebung wahrzunehmen. Beeinflusst Entdeckung und Überraschungen.
+- **[[Attribute/Geist/Wissen|Wissen]]:** Allgemeinbildung und intellektuelle Tiefe. Ermöglicht Zugang zu spezifischen Wissensgebieten.
 
-**[[./Seele/-Seele-|Seele]]:**
-- **[[./Seele/Auftritt|Auftritt]]:** Charisma und Präsenz. Beeinflusst die Wahrnehmung anderer von dir.
-- **[[./Seele/Einsicht|Einsicht]]:** Fähigkeit, die Emotionen und Absichten anderer zu lesen. Beeinflusst soziale Interaktionen.
-- **[[./Seele/Intuition|Intuition]]:** Bauchgefühl und die Fähigkeit, spontan Entscheidungen zu treffen. Beeinflusst kreative Proben und Initiative.
-- **[[./Seele/Täuschen|Täuschen]]:** Geschicklichkeit im Täuschen und Manipulieren. Beeinflusst Bluffen und Intrigen.
-- **[[./Seele/Überzeugen|Überzeugen]]:** Fähigkeit, andere von einer Idee oder Handlung zu überzeugen. Beeinflusst Verhandlungen und Diplomatie.
+**[[Attribute/Seele/-Seele-|Seele]]:**
+- **[[Attribute/Seele/Auftritt|Auftritt]]:** Charisma und Präsenz. Beeinflusst die Wahrnehmung anderer von dir.
+- **[[Attribute/Seele/Einsicht|Einsicht]]:** Fähigkeit, die Emotionen und Absichten anderer zu lesen. Beeinflusst soziale Interaktionen.
+- **[[Attribute/Seele/Intuition|Intuition]]:** Bauchgefühl und die Fähigkeit, spontan Entscheidungen zu treffen. Beeinflusst kreative Proben und Initiative.
+- **[[Attribute/Seele/Täuschen|Täuschen]]:** Geschicklichkeit im Täuschen und Manipulieren. Beeinflusst Bluffen und Intrigen.
+- **[[Attribute/Seele/Überzeugen|Überzeugen]]:** Fähigkeit, andere von einer Idee oder Handlung zu überzeugen. Beeinflusst Verhandlungen und Diplomatie.
 
 ---
 

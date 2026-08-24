@@ -15,12 +15,12 @@
 #### **Variationen:**
 
 - **Pilger**: Du bist ständig unterwegs – nicht aus Rastlosigkeit, sondern aus Überzeugung. Jeder Weg ist eine Prüfung, jede Begegnung eine Lektion.
-    - +1 [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
-    - +1 [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]
+    - +1 [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
+    - +1 [[Attribute/Geist/Wahrnehmung|Wahrnehmung]]
     - Wissen in Überleben/Orientierung
 - **Eremit**: Du hast dich von der Welt zurückgezogen, um Körper und Geist zu perfektionieren. In der Stille hast du gelernt, dich selbst zu beherrschen.
-    - +1 [[../Attribute/Geist/Fokus|Fokus]]
-    - +1 [[../Attribute/Körper/Konstitution|Konstitution]]
+    - +1 [[Attribute/Geist/Fokus|Fokus]]
+    - +1 [[Attribute/Körper/Konstitution|Konstitution]]
     - Wissen in Medizin/Anatomie
 
 ---

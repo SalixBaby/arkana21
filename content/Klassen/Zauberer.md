@@ -16,12 +16,12 @@
 ### **Variationen:**
 
 - **Arkanist**: Du hast deine Kraft nicht gefunden, sondern erworben – mit Tinte, Disziplin und jahrelanger Hingabe. Du glaubst an Struktur, an Berechenbarkeit – und daran, dass Wissen der wahre Schlüssel zur Macht ist.
-    - +2 [[../Attribute/Geist/Wissen|Wissen]]
-    - +2 [[../Attribute/Geist/Fokus|Fokus]]
+    - +2 [[Attribute/Geist/Wissen|Wissen]]
+    - +2 [[Attribute/Geist/Fokus|Fokus]]
     - Wissen in Geschichte/Sprachen & Mathematik/Technik
 - **Chronist**: Du jagst nicht der Wahrheit nach – du sammelst sie. Deine Magie lebt vom Erlebten, nicht vom Studierten – und du weißt, dass selbst das kleinste Fragment Geschichte große Macht bergen kann.
-    - +2 [[../Attribute/Geist/Wissen|Wissen]]
-    - +1 [[../Attribute/Geist/Arkana|Arkana]]
+    - +2 [[Attribute/Geist/Wissen|Wissen]]
+    - +1 [[Attribute/Geist/Arkana|Arkana]]
     - Wissen in Geschichte/Sprachen & Überleben/Orientierung
 
 ---

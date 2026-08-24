@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Pflanzenkunde, Tierpflege, Landwirtschaft
 
 **Segen: Fruchtbarer Boden**
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]
+- +1 auf [[Attribute/Körper/-Körper-|Körper]] oder [[Attribute/Seele/-Seele-|Seele]]
 - Wissen in Naturkunde/Kreaturen
 - Grundkenntnisse von Heilpflanzen und Überleben in der Wildnis
 

@@ -16,13 +16,13 @@ ___
 #### **Variationen:**
 
 - **Waldläufer**: Du bist ein erfahrener Jäger, der seine Umgebung wie seine eigene Westentasche kennt. Egal ob Tier oder Monster– du weißt, wie du deine Beute verfolgst und zur Strecke bringst.
-    - Bonus auf [[../Attribute/Körper/Instinkt|Instinkt]]
-    - +2 auf [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
+    - Bonus auf [[Attribute/Körper/Instinkt|Instinkt]]
+    - +2 auf [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
     - Wissen in Naturkunde/Kreaturen  & Überleben/Orientierung
 
 - **Kopfgeldjäger**: Du jagst nicht nur Monster, sondern auch Menschen – und du lässt keine Beute entkommen. Du bist Meister darin, Zielpersonen aufzuspüren, Fallen zu stellen und sie lebendig oder tot abzuliefern.
-    - Bonus auf [[../Attribute/Seele/Intuition|Intuition]]
-    - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
+    - Bonus auf [[Attribute/Seele/Intuition|Intuition]]
+    - +1 auf [[Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
     - Wissen in Handel/Wirtschaft & Überleben/Orientierung
 
 ---

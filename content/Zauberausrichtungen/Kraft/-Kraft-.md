@@ -1,3 +1,3 @@
 >*Diese Kategorie umfasst die metaphysischen und kosmischen Kräfte, die das Universum durchdringen. Zauber dieser Kategorie greifen auf abstrakte, aber mächtige Energien zurück, um das Licht zu kontrollieren, die Dunkelheit zu manipulieren, die Zeit zu beeinflussen oder den Raum selbst zu verzerren. Die Magie der Kraft ist ideal für diejenigen, die das Wesen der Realität selbst verändern wollen – sei es durch Licht oder Schatten, durch Raum oder den Fluss der Zeit.*
 
-- **Ausrichtungen**: [[./Dunkelheit|Dunkelheit]], [[./Raum|Raum]], [[./Licht|Licht]], [[./Zeit|Zeit]]]
+- **Ausrichtungen**: [[Zauberausrichtungen/Kraft/Dunkelheit|Dunkelheit]], [[Zauberausrichtungen/Kraft/Raum|Raum]], [[Zauberausrichtungen/Kraft/Licht|Licht]], [[Zauberausrichtungen/Kraft/Zeit|Zeit]]]

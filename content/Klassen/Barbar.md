@@ -12,12 +12,12 @@
 ### **Variationen:**
 
 - **Berserker**: In dir brennt ein unstillbares Feuer. Wenn du in Raserei verfällst, zählt nur noch der Kampf. Schmerz bedeutet dir nichts, Vernunft weicht Instinkt. Du bist Sturm und Stahl – eine lebendige Waffe.
-	- +1 [[../Attribute/Körper/Stärke|Stärke]]
-    - +1 [[../Attribute/Körper/Instinkt|Instinkt]]
+	- +1 [[Attribute/Körper/Stärke|Stärke]]
+    - +1 [[Attribute/Körper/Instinkt|Instinkt]]
 - **Wirt**: Etwas schläft in deinem Inneren – ein anderes Wesen, das durch dich atmet. Seine Macht durchströmt dich in Momenten der Wut. Du bist nicht allein in deinem Körper, und manchmal verschwimmen eure Grenzen.
-    - +1 [[../Attribute/Geist/Wissen|Wissen]]
-    - +1 [[../Attribute/Geist/Fokus|Fokus]]
-    - +1 [[../Attribute/Körper/Instinkt|Instinkt]]
+    - +1 [[Attribute/Geist/Wissen|Wissen]]
+    - +1 [[Attribute/Geist/Fokus|Fokus]]
+    - +1 [[Attribute/Körper/Instinkt|Instinkt]]
     - Wissen in Religion/Mythen
 
 ---

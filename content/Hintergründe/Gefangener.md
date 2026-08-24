@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Selbstverteidigung, Improvisation, Überlebensinstinkt
 
 **Segen: Zähigkeit**
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]
+- +1 auf [[Attribute/Körper/-Körper-|Körper]] oder [[Attribute/Seele/-Seele-|Seele]]
 - Wissen Überleben/Orientierung 
 - Grundkenntnisse von Kerkern und Gefangenrituale
 

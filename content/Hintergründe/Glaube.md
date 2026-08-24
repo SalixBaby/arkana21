@@ -6,7 +6,7 @@
 **Mögliche Merkmale:** Religionskenntnisse, Ritualistik, spirituelle Heilung
 
 **Segen: Göttlicher Segen**
-- +1 auf [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]
+- +1 auf [[Attribute/Geist/-Geist-|Geist]] oder [[Attribute/Seele/-Seele-|Seele]]
 - Wissen und Bonus auf Religion/Mythen
 - Zugang zu religiösen Wesen und Wissenshorten
 

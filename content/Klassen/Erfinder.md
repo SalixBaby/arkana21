@@ -14,15 +14,15 @@
 - **Hextech**: Du kombinierst externe Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.
     - Wissen und Bonus in Mathematik/Technik oder Handwerk/Metallurgie
     - +2 Zauberausrichtungen
-    - Umgang mit [[../Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]]
-    - Bonus auf [[../Attribute/Geist/Arkana|Arkana]]
-    - +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
+    - Umgang mit [[Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]]
+    - Bonus auf [[Attribute/Geist/Arkana|Arkana]]
+    - +1 [[Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
 - **Tüftler**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Apparaturen bis zu komplexen Maschinen.
     - Wissen und Bonus in Mathematik/Technik oder Handwerk/Metallurgie
-    - Umgang mit [[../Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]]
+    - Umgang mit [[Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]]
     - Zugang zu Feuerwaffen (sollte mit dem SL abgesprochen werden)
-    - +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
-    - +1 [[../Attribute/Geist/Fokus|Fokus]]
+    - +1 [[Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
+    - +1 [[Attribute/Geist/Fokus|Fokus]]
 
 ---
 

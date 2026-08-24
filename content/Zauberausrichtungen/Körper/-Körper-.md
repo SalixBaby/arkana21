@@ -1,3 +1,3 @@
 >*Die Magie des Körpers ist darauf spezialisiert, physische Grenzen zu überwinden oder das Erscheinungsbild der Realität zu verändern. Durch die Manipulation von Raum, Form oder Wahrnehmung ermöglicht diese Kategorie Beschwörungen, die Erschaffung von Illusionen, die Transformation von Körpern oder Visionen von fernen Orten. Diese Zauber verändern die physische Realität auf tiefgreifende Weise und geben dem Anwender die Macht, seine physische Umgebung und sich selbst neu zu gestalten.*
 
-- **Ausrichtungen**: [[./Illusionen|Illusionen]], [[../Kraft/Raum|Raum]], [[./Transformation|Transformation]], [[./Sinne|Sinne]]
+- **Ausrichtungen**: [[Zauberausrichtungen/Körper/Illusionen|Illusionen]], [[Zauberausrichtungen/Kraft/Raum|Raum]], [[Zauberausrichtungen/Körper/Transformation|Transformation]], [[Zauberausrichtungen/Körper/Sinne|Sinne]]
