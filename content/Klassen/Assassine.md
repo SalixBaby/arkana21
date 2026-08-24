@@ -11,10 +11,10 @@
 #### **Variationen:**
 
 - **Auftragsmörder**: Du tötest nicht aus Leidenschaft oder Not – du tust es, weil es dein Beruf ist. Ob mit Dolch, Gift oder präzisem Schuss – deine Kunst ist der saubere Tod.
-    - +1 auf [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
-    - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
+    - +1 auf [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
+    - +1 auf [[Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
 - **Chirurg**: Du kennst den menschlichen Körper besser als jeder andere. Du weißt genau, wo du schneiden musst – um zu lähmen, zu töten oder nur Schmerz zu erzeugen.
-    - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
+    - +1 auf [[Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]
     - Wissen und Bonus in Medizin/Anatomie
 
 ---
