@@ -16,12 +16,12 @@
 #### **Variationen:**
 
 - **Verstummer**:  Du bist die Leere zwischen Zauber und Wirkung. In deiner Nähe verliert Magie ihre Stimme, ihre Form, ihren Willen. Wo andere gegen Zauber kämpfen, nimmst du ihnen schlicht die Möglichkeit, überhaupt zu wirken.
-    - +1 [[../Attribute/Geist/Wissen|Wissen]]
-    - +1 [[../Attribute/Geist/Fokus|Fokus]]
+    - +1 [[Attribute/Geist/Wissen|Wissen]]
+    - +1 [[Attribute/Geist/Fokus|Fokus]]
     - Wissen in Geschichte/Sprachen
 - **Läuterer**:  Du siehst Magie als Makel, als Krankheit der Welt. Dein Handeln ist kein Hass, sondern Überzeugung. Jeder Zauber, der fällt, ist für dich ein Akt der Reinigung.
-    - +1 [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
-    - +1 [[../Attribute/Seele/Intuition|Intuition]]
+    - +1 [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
+    - +1 [[Attribute/Seele/Intuition|Intuition]]
     - Wissen und Bonus in Überleben/Orientierung
 
 ---
