@@ -17,12 +17,12 @@
 #### **Variationen:**
 
 - **Leibwächter**: Dein Auftrag: Schutz einer Person. Du analysierst instinktiv und erkennst Bedrohungen, bevor andere sie überhaupt wahrnehmen.
-    - +2 auf [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]
-    - +1 auf [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
+    - +2 auf [[Attribute/Geist/Wahrnehmung|Wahrnehmung]]
+    - +1 auf [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
     - Wissen in Medizin/Anatomie
 - **Hirte**: Du schützt nicht irgendwen, sondern jeden und alles. Du bist gleichzeitig Beschützer, Richter und leider manchmal auch Henker.
-    - +1 auf [[../Attribute/Körper/Konstitution|Konstitution]]
-    - +2 auf [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]
+    - +1 auf [[Attribute/Körper/Konstitution|Konstitution]]
+    - +2 auf [[Attribute/Geist/Wahrnehmung|Wahrnehmung]]
     - Wissen in Politik/Diplomatie
 
 ---
