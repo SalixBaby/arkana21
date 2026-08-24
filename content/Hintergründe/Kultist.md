@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Okkulte Lehren, geheime Rituale, Konspiration, mentale Disziplin
 
 **Segen: Okkultes Wissen**
-- +1 auf [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
+- +1 auf [[Attribute/Geist/-Geist-|Geist]] oder [[Attribute/Seele/-Seele-|Seele]]  
 - Wissen auf Religion/Mythen und Kryptologie/Geheimzeichen  
 - Zugang zu verborgenen Kulten, Sektenwissen und geheimen Netzwerken
 
