@@ -5,8 +5,12 @@
 
 - **Klassenkategorie:** Kampfklasse
 - **Klassenfähigkeit:** Apparaturen
-	- Du kannst einmal täglich ein kleine, nützliche Apparatur bauen. Apparaturen können dir Bonus auf Proben geben oder andere Effekte haben. Du kannst (Level x2) Apparaturen gleichzeitig funktional halten. Die Funktionen aller Apparaturen sollten mit dem SL abgesprochen werden.
+	- Du kannst einmal täglich eine kleine Apparatur bauen. Du kannst bis zu (Level x2) Apparaturen gleichzeitig funktional halten.
 
+- ***Zusätzliche Erklärung für Apparaturen:***
+	- **Effekt:** Eine Apparatur gewährt einen Bonus  auf ein Unterattribut, als Wissen in einer Kategorie, als zusätzliche Sprache, oder als kleine Fähigkeit (z.B. Nachtsicht, Wasseratmung). Eigene, kreative Ideen für Apparaturen sind ausdrücklich erwünscht – Absprache mit dem SL.
+	- **Begrenzung:** Zwei Apparaturen auf dasselbe Ziel stapeln nicht.
+	- **Konstrukt:** Ein kombiniertes Konstrukt kann einen doppelten Bonus geben. Auch eine andere, stärkere Fähigkeit ist möglich, wenn sie thematisch passt.
 ---
 
 #### **Variationen:**
