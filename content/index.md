@@ -26,3 +26,4 @@ Perfekt für neue Spieler, One-Shots oder als schnelle Referenz am Spieltisch.
 
 **👉 [[./Schnellstart|Zum Schnellstart]]**
 **👉 [[./Grundregelwerk|Zum Grundregelwerk]]**
+**👉 <a href="./Arkana21_Charakterbogen_Vorlage.pdf" target="_blank" download="Arkana21_Charakterbogen">Arkana21 Charakterbogen</a>**
