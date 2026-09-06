@@ -1,14 +1,13 @@
->_Der **Schüler** ist noch im Lernprozess und strebt nach Wissen und Fähigkeiten. Diese Charaktere sind neugierig und wissbegierig und haben das Potenzial, sich schnell zu entwickeln und zu wachsen._
+> _Der **Schüler** steht noch im Schatten eines Lehrmeisters. Was auch immer dieser Mentor ihm beigebracht hat – Handwerk, Kampfkunst, Magie, Wissenschaft – der Schüler trägt es als Fähigkeit in sich, aber auch die Erwartungen und die Loyalität, die er seinem Lehrmeister schuldet._
 
-**Mögliche Merkmale:** Wissbegierde, Lernfähigkeit, Anpassungsfähigkeit
+**Mögliche Merkmale:** Lernfähigkeit, Anpassungsfähigkeit, eine enge (und nicht immer freiwillige) Bindung an eine Lehrer-Figur
 
-**Segen: Schnelllernend**
-- +1 auf [[Attribute/Geist/-Geist-|Geist]]
-- Wissen in Mathematik/Technik
-- Zugang zu Lehrmaterialien und Grundverständnis von Wissenschaft
-- +1 Ausbildungspunkt
+**Segen: Im Schatten des Meisters**
+- +1 auf ein Attribut nach Wahl (je nachdem, worin dich dein Mentor ausgebildet hat)
+- Eine Fertigkeit oder ein Wissensgebiet deines Mentors, frei gewählt und mit dem SL abgesprochen
+- Du kannst dich an deinen Mentor wenden – für Rat, eine Gefälligkeit, oder um mit Zeit eine neue Grundfertigkeit zu erlernen
 
-**Fluch: Unerfahren**
-- Fehlende Erfahrung kann zu Fehlern führen
-- Oft abhängig von Lehrmeistern
-    - Optional: Naivität
+**Fluch: Schulden beim Meister**
+- Loyalität oder Verpflichtung gegenüber dem Mentor, dessen Bitten schwer abzulehnen sind
+- Fehlende eigene Erfahrung führt in neuen Situationen schneller zu Fehlern
+    - Optional: Der Mentor hat eigene Feinde oder eine zwielichtige Vergangenheit, die auf dich zurückfallen kann
