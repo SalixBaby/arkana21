@@ -6,6 +6,7 @@
 - +1 auf [[Attribute/Körper/-Körper-|Körper]] oder [[Attribute/Seele/-Seele-|Seele]]
 - Wissen und Bonus in Überleben/Orientierung
 - Kennt lokale Unterweltkontakte
+- **Flinke Finger** – Bonus um bei Körperkontakt  unbemerkt einen kleinen Gegenstand entwenden oder unterschieben
 
 **Fluch: Misstrauen**
 - Schwierigkeit, anderen zu vertrauen
