@@ -15,7 +15,7 @@
 - [[Klassen/Hexer|Hexer]] – Zapft verbotene oder fremde Mächte an und nutzt den eigenen Körper oder Blut als Quelle übernatürlicher Kraft.
 - [[Klassen/Informant|Informant]] – Sammelt, analysiert und verkauft Wissen und Geheimnisse und beeinflusst Ereignisse aus dem Hintergrund.
 - [[Klassen/Jäger|Jäger]] – Ein spezialisierter Verfolger, der Beute analysiert, Schwächen ausnutzt und in der Wildnis überlebt.
-- [[Klassen/Kleriker|Kleriker]] – Ein geweihter Streiter seines Glaubens, der göttliche Macht lenkt, um zu schützen, zu richten oder zu führen.
+- [[Klassen/Paladin|Paladin]] – Ein geweihter Streiter seines Glaubens, der göttliche Macht lenkt, um zu schützen, zu richten oder zu führen.
 - [[Klassen/Krieger|Krieger]] – Ein vielseitiger Frontkämpfer, der Waffen, Rüstung und Kampftechnik meisterhaft einsetzt.
 - [[Klassen/Künstler|Künstler]] – Nutzt Kunst, Worte oder Musik, um Emotionen zu beeinflussen, Magie nachzuahmen und Realität zu verzerren.
 - [[Klassen/Magiebrecher|Magiebrecher]] – Spezialisiert auf das Erkennen, Stören und Zerschlagen magischer Effekte und Zauber.

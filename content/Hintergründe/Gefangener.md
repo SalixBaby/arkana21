@@ -6,6 +6,7 @@
 - +1 auf [[Attribute/Körper/-Körper-|Körper]] oder [[Attribute/Seele/-Seele-|Seele]]
 - Wissen Überleben/Orientierung 
 - Grundkenntnisse von Kerkern und Gefangenrituale
+- **Ausbruchskünstler** – Bonus, um dich aus Fesseln, Zellen oder Gewahrsam zu befreien.
 
 **Fluch: Paranoia**
 - Neigung, jedem zunächst zu misstrauen

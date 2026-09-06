@@ -7,7 +7,7 @@ Wähle bedacht, denn **deine Vergangenheit bestimmt, wie du der Welt begegnest**
 - [[Hintergründe/Adel|Adel]] - Aufgewachsen in Privilegien, Intrigen und Machtstrukturen. Du kennst Etikette, Einfluss und die Spielregeln der Herrschenden.
 - [[Hintergründe/Athlet|Athlet]] - Dein Körper wurde durch Training, Wettkampf oder körperliche Disziplin geformt. Leistung, Ausdauer und Selbstkontrolle stehen im Fokus deines Lebens.
 - [[Hintergründe/Bauer|Bauer]] - Ein Leben geprägt von harter Arbeit, einfachen Mitteln und dem Rhythmus der Natur. Du weißt, wie man mit wenig auskommt und durchhält.
-- [[Hintergründe/Diener|Diener]] - Du hast im Schatten anderer gelebt und gelernt, zu beobachten statt aufzufallen. Gehorsam, Diskretion und Anpassungsfähigkeit prägen dich.
+- [[Hintergründe/Versuchsperson|Versuchsperson]] - Du hast im Schatten anderer gelebt und gelernt, zu beobachten statt aufzufallen. Gehorsam, Diskretion und Anpassungsfähigkeit prägen dich.
 - [[Hintergründe/Forscher|Forscher]] - Getrieben von Neugier und Wissensdurst hast du Orte, Phänomene oder alte Geheimnisse untersucht. Unbekanntes schreckt dich nicht ab, sondern zieht dich an.
 - [[Hintergründe/Gefangener|Gefangener]] - Freiheit war dir einst genommen – ob zu Recht oder Unrecht. Diese Zeit hat dich abgehärtet und deinen Blick auf Autorität geprägt.
 - [[Hintergründe/Gelehrter|Gelehrter]] - Jahre des Studiums und der Theorie haben deinen Verstand geschärft. Bücher, Archive und Diskussionen sind dir vertrauter als das Schlachtfeld.

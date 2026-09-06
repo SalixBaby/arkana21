@@ -8,8 +8,8 @@
 **Segen: Bücherwurm**
 - +1 auf [[Attribute/Geist/-Geist-|Geist]]
 - Wissen in Geschichte/Sprachen
-- Bonus auf Informationssammeln in Bibliotheken oder Archiven
 - +1 Ausbildungspunkt
+- **Schnelles Lesen** - Bonus auf Informationssammeln in Bibliotheken oder Archiven
 
 **Fluch: Wissensdrang**
 - Kann schwer Geheimnisse oder Fragen unbeantwortet lassen

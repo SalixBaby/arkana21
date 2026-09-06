@@ -6,7 +6,7 @@
 - +1 auf [[Attribute/Geist/-Geist-|Geist]]
 - Wissen und Bonus in Medizin/Anatomie
 - Zugang zu medizinischem Equipment
-- Notversorgung: Du erhältst auf die Stabilisierungs-Probe für dich selbst und für andere einen zusätzlichen Bonus.
+- **Notversorgung** - Du erhältst auf die Stabilisierungs-Probe für dich selbst und für andere einen zusätzlichen Bonus.
 
 **Fluch: Helferkomplex**
 - Neigung, selbstschädigend anderen zu helfen

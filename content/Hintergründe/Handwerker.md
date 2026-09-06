@@ -4,9 +4,9 @@
 
 **Segen: Meister des Handwerks**
 - +1 auf [[Attribute/Körper/-Körper-|Körper]] oder [[Attribute/Geist/-Geist-|Geist]]
-- Wissen in Mathematik/Technik
+- Wissen in Handwerk/Metallurgie
 - Umgang mit [[Lederhandwerks Set|Lederhandwerks Set]], [[Steinmetz Set|Steinmetz Set]] oder [[Schmiede Set|Schmiede Set]]
-- Halbe Zeiten für Reparatur 
+- **Flicker** - Halbe Zeiten für Reparatur aller Art
 
 **Fluch: Tunnelblick**
 - Verliert sich in Arbeit und Projekten

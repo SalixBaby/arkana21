@@ -6,6 +6,7 @@
 - +1 auf [[Attribute/Körper/-Körper-|Körper]] oder [[Attribute/Geist/-Geist-|Geist]]
 - Wissen in Überleben/Orientierung
 - Kenntnis über Nautik und Meteorologie
+- **Seebeine** – kein Malus durch Wellengang, schwankende Böden oder Stürme auf deine Proben.
 
 **Fluch: Landfremd**
 - Unwohlsein bei längeren Aufenthalten entfernt vom Wasser
