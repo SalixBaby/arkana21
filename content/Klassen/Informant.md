@@ -27,11 +27,11 @@
 #### **1. Level:**
 
 - **Menschenkenntnis**: Du hast ein untrügliches Gespür für die Emotionen und inneren Schwächen anderer. Du weißt instinktiv, welches soziale Talent bei jemanden am Besten funktionieren würde.
-- **Meister des Feilschens**: Deine Erfahrung im Kauf und Verkauf von Informationen stärkt dein Talent zum Verhandeln. Du erhältst einen Bonus auf alle Verhandlungsproben.
+- **Gerüchte streuen**: Einmal am Tag kannst du gezielt eine Information streuen oder ein Gerücht verbreiten. Je nachdem, wie glaubhaft es und wie groß dein Netzwerk ist, kann es innerhalb der nächsten Stunden oder Tage Auswirkungen haben und sich ausbreiten.
 
 #### **2. Level:**
 
-- **Gerüchte streuen**: Einmal am Tag kannst du gezielt eine Information streuen oder ein Gerücht verbreiten. Je nachdem, wie glaubhaft es und wie groß dein Netzwerk ist, kann es innerhalb der nächsten Stunden oder Tage Auswirkungen haben und sich ausbreiten.
+- **Meister des Feilschens**: Deine Erfahrung im Kauf und Verkauf von Informationen stärkt dein Talent zum Verhandeln. Du erhältst einen Bonus auf alle Verhandlungsproben.
 - **Schwachpunkt erkennen**: Du kannst 2 AP dafür nutzen um dir einen Gegner genauer anzuschauen. Du erhältst für diesen Kampf einen Bonus auf alle Angriffe gegen dieses Ziel.
 
 #### **3. Level:**
