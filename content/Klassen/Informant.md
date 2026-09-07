@@ -11,7 +11,7 @@
 
 #### **Variationen:**
 
-- **Detektiv**: Du beobachtest, analysierst und kombinierst. Du siehst, was anderen entgeht, und erkennst Muster, wo andere Chaos sehen. Deine Stärke liegt nicht im Angriff – sondern in Informationen.
+- **Ermittler**: Du beobachtest, analysierst und kombinierst. Du siehst, was anderen entgeht, und erkennst Muster, wo andere Chaos sehen. Deine Stärke liegt nicht im Angriff – sondern in Informationen.
 	- Bonus auf [[Attribute/Geist/Erfahrung|Erfahrung]]
     - +1 auf [[Attribute/Geist/Wissen|Wissen]]
     - +1 auf [[Attribute/Seele/Einsicht|Einsicht]]
