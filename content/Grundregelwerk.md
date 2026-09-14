@@ -52,115 +52,110 @@ Diese Flexibilität fördert kreatives Rollenspiel und macht jede Szene einzigar
 
 <a href="./Arkana21_Charakterbogen_Vorlage.pdf" target="_blank" download="Arkana21_Charakterbogen">Arkana21 Charakterbogen</a>
 
-##### 2.1 Starte mit einer Charakteridee  
+##### 2.1 Starte mit einer Charakteridee
 Überlege dir, wer dein Charakter ist. Ist er ein mutiger Krieger, ein listiger Dieb oder ein weiser Magier? Wie ist sein Hintergrund, welche Ziele verfolgt er, und welche Persönlichkeit hat er? Diese erste Vorstellung bildet das Fundament für deinen Helden.
 
-##### 2.2 Wähle eine Klasse  
+##### 2.2 Wähle eine Klasse
 Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfügbaren Optionen. Jede Klasse bringt besondere Fähigkeiten mit sich, die den Spielstil deines Charakters prägen. Die Klassen sind in zwei Kategorien unterteilt:
 
 - **Kampfklassen** für physische Stärke, Taktik oder Kampfkunst.
 - **Zauberklassen** für magische Fähigkeiten und das Wirken von Zaubern.
-  
+
 Jede Klasse verfügt über zwei unterschiedliche Variationen, die verschiedene Facetten und Schwerpunkte der Klasse widerspiegeln. Sie dienen als Inspiration und Orientierung, sind jedoch keine feste Vorgabe und müssen weder strikt gespielt noch vollständig übernommen werden.
-  
+
 [[Klassen/-Klassen-|Klassenübersicht]]
 
->[!example]- *Beispiel* 
+>[!example]- *Beispiel*
 >*Du entscheidest dich für die Klasse **Jäger** und die Variation **Waldläufer**, eine Kampfklasse, die sich auf Präzision und Geschicklichkeit spezialisiert.*
 
-##### 2.3 Wähle ein Volk  
+##### 2.3 Wähle ein Volk
 Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein grobes Aussehen, Kultur und einige Fähigkeiten. Wähle ein Volk, das sich für dich am interessantesten anhört.
 
 [[Völker/-Völker-|Völkerübersicht]]
 
->[!example]- *Beispiel* 
- >*Dein Charakter ist ein Lupari (Wolfvolk) und verlässt sich gerne auf seine Nase. Dies lässt sich gut mit seiner Klasse des Jägers verbinden.*
+>[!example]- *Beispiel*
+>*Dein Charakter ist ein Lupari (Wolfvolk) und verlässt sich gerne auf seine Nase. Dies lässt sich gut mit seiner Klasse des Jägers verbinden.*
 
-##### 2.4 Wähle einen Hintergrund  
+##### 2.4 Wähle einen Hintergrund
 Der Hintergrund deines Charakters beschreibt seine Herkunft und bisherigen Erfahrungen. Er gibt dir zusätzliche Fertigkeiten, Wissen und Eigenschaften, die deinem Helden mehr Tiefe verleihen. Wähle einen Hintergrund, der zur Lebensgeschichte deines Charakters passt.
 
 [[Hintergründe/-Hintergründe-|Hintergrundsübersicht]]
 
->[!example]- *Beispiel* 
- >*Dein Charakter wuchs als **Seefahrer** auf und hat ein tiefes Verständnis für Navigation und das Leben auf See entwickelt.*
+>[!example]- *Beispiel*
+>*Dein Charakter wuchs als **Seefahrer** auf und hat ein tiefes Verständnis für Navigation und das Leben auf See entwickelt.*
 
 ##### 2.5 Verteile deine Kernattribute
-Nun setzt du die Standardwerte 2, 1 und -2 auf die drei Hauptattribute:
+Nun setzt du die Standardwerte 2, 1 und -2 auf die drei Hauptattribute. Bevor du das tust, lohnt sich ein Blick darauf, was jedes Attribut später tatsächlich bewirkt:
 
-- **[[Attribute/Körper/-Körper-|Körper]]** für physische Fähigkeiten und Ausdauer.
-- **[[Attribute/Geist/-Geist-|Geist]]** für Intelligenz und Magie.
-- **[[Attribute/Seele/-Seele-|Seele]]** für Charisma und Inspiration.
+- **[[Attribute/Körper/-Körper-|Körper]]** – physische Fähigkeiten und Ausdauer. Fließt direkt in deine Ausdauerpunkte ein und wirkt über deine Unterattribute zusätzlich auf Gesundheit, Bewegungsrate und Ausweichen.
+- **[[Attribute/Geist/-Geist-|Geist]]** – Intelligenz und Magie. Bestimmt direkt deine Manapunkte (bei Zauberklassen) und deine Ausbildungspunkte, und wirkt über deine Unterattribute zusätzlich auf deine Willensstärke.
+- **[[Attribute/Seele/-Seele-|Seele]]** – Charisma und Inspiration. Fließt direkt in deine Inspirationspunkte ein.
 
-Diese [[Attribute/-Attribute-|Attribute]] bestimmen, wie gut dein Charakter in verschiedenen Situationen abschneidet und beeinflussen die Verteilung von Unterattributen wie Geschicklichkeit, Wahrnehmung oder Überzeugen.
+Die Verteilung legt also schon jetzt fest, wie robust, wie mächtig im Zaubern oder wie inspirierend dein Charakter später wird.
 
->[!example]- *Beispiel* 
+>[!example]- *Beispiel*
 >*Du verteilst die Werte folgendermaßen:*
 >
 >*- **Körper**: 2*
 >*- **Geist**: 1*
->*- **Seele**: -2*  
-> 
->*Dein Jäger ist körperlich stark, aber weniger charismatisch.*
-
+>*- **Seele**: -2*
+>
+>*Dein Jäger ist körperlich stark, aber weniger charismatisch – das zeigt sich später in überdurchschnittlichen Ausdauerpunkten und unterdurchschnittlichen Inspirationspunkten.*
 
 ##### 2.6 Setze deine Talentpunkte ein
-Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um deine Fähigkeiten weiter zu spezialisieren. Du hast dabei so viele Talentpunkte wie dein Level + 2. Diese Punkte steigern den Wert des jeweiligen Attributs und verbessern deine Chancen bei entsprechenden Proben. Bist du in einem Unterattribut talentiert erhältst du einen Bonus von + (Level) auf alle Unterattributs-Proben. Es ist nicht möglich, mehrere Talentpunkte auf das selbe Unterattribut zu setzen.
+Danach setzt du deine Talentpunkte auf die Unterattribute (Geschicklichkeit, Überzeugen etc.) der Kernattribute (Körper, Geist, Seele), um deine Fähigkeiten weiter zu spezialisieren. Du hast dabei so viele Talentpunkte wie dein Level + 2. Diese Punkte steigern den Wert des jeweiligen Unterattributs und verbessern deine Chancen bei entsprechenden Proben. Bist du in einem Unterattribut talentiert, erhältst du zusätzlich einen Bonus von + (Level) auf alle Proben mit diesem Unterattribut. Es ist nicht möglich, mehrere Talentpunkte auf dasselbe Unterattribut zu setzen.
 
 [[Attribute/-Attribute-|Attributsübersicht]]
 
->[!example]- Beispiel 
->Du setzt 1 Talentpunkte auf **Geschicklichkeit**, 1 Punkt auf **Wahrnehmung** und deinen letzten auf **Geschwindigkeit**, um deinem Jäger in diesen Bereichen Vorteile zu verschaffen.
+>[!example]- Beispiel
+>Du setzt 1 Talentpunkt auf **Geschicklichkeit**, 1 Punkt auf **Wahrnehmung** und deinen letzten auf **Geschwindigkeit**, um deinem Jäger in diesen Bereichen Vorteile zu verschaffen.
 
-
-##### 2.7 Verteile deine Ausbildungspunkte
-Mit deinen Ausbildungspunkten (Geist-Wert + Level + 3) kannst du Wissen in verschiedenen Kategorien erlangen, den Umgang mit bestimmten Ausrüstungssets erlernen oder neue Sprachen beherrschen. Diese Punkte ermöglichen es dir, deinen Charakter noch individueller zu gestalten.
-Jeder Held beherrscht von Beginn an die Sprache seines Volkes sowie die Gemeinsprache. Darüber hinaus ist jeder Held im Umgang mit einem Ausrüstungsset seiner Wahl geübt.
-
->[!example]- Beispiel 
->Dein Jäger erhält 5 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Naturkunde/Kreaturen**, **Medizin/Anatomie**, **Kartographenset** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.
->Er beherrscht von Beginn an die Sprache der Lupari und die Gemeinsprache sowie das Jagdset.
-
-
-##### 2.8 Bestimme alle passiven Werte  
+##### 2.7 Bestimme alle passiven Werte
 Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit. Sollte einer der passiven Werte auf unter 0 fallen, wird er auf 0 aufgerundet.
 
 (Nicht vergessen: Helden können aufgrund ihrer Klasse, Variation oder Fähigkeiten ebenfalls zusätzliche Attribute erhalten.)
 
 - [[Attribute/Passiv/Gesundheit|Gesundheit]]: 3 + [[Attribute/Körper/Konstitution|Konstitution]] + (Level x 2)
 - [[#7.4 Manapunkte|Manapunkte]]: [[Attribute/Geist/-Geist-|Geist]] + (Level x 2) (Nur für Zauberklassen)
-- [[Zauberausrichtungen/-Zauberausrichtungen-|Zauberausrichtungen]]: [[Attribute/Geist/Wissen|Wissen]] + 3 + Level
 - [[Attribute/Passiv/Bewegungsrate|Bewegungsrate]]: (Bewegungsrate des Volkes) + [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
+- [[Attribute/Passiv/Flugweite|Flugweite]]: (Flugweite des Volkes) + [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
+- [[Attribute/Passiv/Sprungweite|Sprungweite]]: (Sprungweite des Volkes) + [[Attribute/Körper/Stärke|Stärke]]
+- [[Attribute/Passiv/Schwimmweite|Schwimmweite]]: (Schwimmweite des Volkes) + [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
 - [[Attribute/Passiv/Ausweichen|Ausweichen]]: 10 + [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
 - [[Attribute/Passiv/Willensstärke|Willensstärke]]: 10 + [[Attribute/Geist/Fokus|Fokus]]
 - [[#7.3 Inspirationspunkte|Inspirationspunkte]]: [[Attribute/Seele/-Seele-|Seele]]
 - [[#7.2 Ausdauerpunkte|Ausdauerpunkte]]: [[Attribute/Körper/-Körper-|Körper]]
 
->[!example]- Beispiel 
+>[!example]- Beispiel
 >Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 2 (Konstitution) + 1 (Level) x 2 = 7 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10
 
-
-##### 2.9 Wähle deine Zauberausrichtungen  
+##### 2.8 Wähle deine Zauberausrichtungen
 Bestimme nun die Zauberausrichtungen, mit denen dein Charakter vertraut ist. Für Magieklassen ist diese Wahl von entscheidender Bedeutung, da sie bestimmt, welche Arten von Zaubern sie wirken können. Doch auch für Kampfklassen ist sie nicht minder wichtig: Selbst wenn dein Held keine Magie wirken kann, so kennt er doch die Sprachen der Zauberei – und weiß, ihre Formen und Wirkungen zu erkennen.
 
+- [[Zauberausrichtungen/-Zauberausrichtungen-|Zauberausrichtungen]]: [[Attribute/Geist/Wissen|Wissen]] + 3 + Level
 
->[!example]- Beispiel 
+>[!example]- Beispiel
 >Dein Jäger wirkt selbst keine Zauber, kennt sich jedoch mit den Ausrichtungen Dunkelheit, Sinne, Erde, Luft und Wasser aus. Er kann die entsprechenden Zauber daher einschätzen und identifizieren.
 
+##### 2.9 Verteile deine Ausbildungspunkte
+Mit deinen Ausbildungspunkten (Geist-Wert + Level + 3) kannst du Wissen in verschiedenen Kategorien erlangen, den Umgang mit bestimmten Ausrüstungssets erlernen oder neue Sprachen beherrschen. Diese Punkte ermöglichen es dir, deinen Charakter noch individueller zu gestalten.
+Jeder Held beherrscht von Beginn an die Sprache seines Volkes sowie die Gemeinsprache. Darüber hinaus ist jeder Held im Umgang mit einem Ausrüstungsset seiner Wahl geübt.
 
-##### 2.10 Wähle deine Ausrüstung  
-Zum Schluss stattest du deinen Charakter mit passender Ausrüstung aus. Wähle Waffen, Rüstungen und andere Gegenstände, die zu deiner Klasse und deinem Hintergrund passen. Achte darauf, dass Rüstungen deine Bewegungsrate beeinflussen können:
+>[!example]- Beispiel
+>Dein Jäger erhält 5 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Naturkunde/Kreaturen**, **Medizin/Anatomie**, **Kartographenset** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.
+>Er beherrscht von Beginn an die Sprache der Lupari und die Gemeinsprache sowie das Jagdset.
+
+##### 2.10 Wähle deine Ausrüstung
+Zum Schluss stattest du deinen Charakter mit passender Ausrüstung aus. Wähle Waffen, Rüstungen und andere Gegenstände, die zu deiner Klasse, deinem Hintergrund und deiner Ausbildung passen. Achte darauf, dass Rüstungen deine Bewegungsrate beeinflussen können:
 
 - [[Ausrüstungen/Waffen/-Waffen-|Waffen]] (Maximal 2 Waffen, wobei nicht beide [[Ausrüstungen/Waffen/Waffeneigenschaften/Schwer|Schwer]] sein dürfen)
-- [[Ausrüstungen/Ausrüstungssets/-Ausrüstungssets-|Ausrüstungssets]] (Durch Ausbildung bestimmt)
 - [[Ausrüstungen/Rüstungen/-Rüstungen-|Rüstungen]] (Jeder Held kann mit jeder Art von Rüstung starten, die er tragen kann)
 
-
->[!example]- Beispiel 
+>[!example]- Beispiel
 >Dein Jäger trägt leichte Rüstung, die 2 Bewegungspunkte kostet, wodurch seine Bewegungsrate auf 5 reduziert wird. Als Waffe trägt er einen Bogen und ein Kurzschwert.
 
-
-##### 2.11 Sei kreativ und hab Spaß!  
-Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abenteuer zusammen mit deinen Freunden erleben. Und ob ihr die Helden oder die Bösen sein wollt, am wichtigsten ist es jedoch: Habt Spaß!
+##### 2.11 Sei kreativ und hab Spaß!
+Nun, da dein Charakter erstellt ist, kannst du dich kreativ austoben und dein Abenteuer zusammen mit deinen Freunden erleben. Und ob ihr die Helden oder die Bösen sein wollt, am wichtigsten ist es jedoch: Habt Spaß!
 
 ---
 
@@ -256,11 +251,11 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Schubsen** – _1 AP_: Bringe einen Gegner aus dem Gleichgewicht oder stoße ihn von dir weg. *(Stärkeproben-Wettstreit. 1 Stärke = 1/2 Feld aufgerundet)*
 - **Helfen** – _1 AP_: Helfe einem Mistreiter bei einer bevorstehenden Angriffsprobe oder einer Probe, in der du talentiert bist. *(Bonus auf nächste Probe)*
 - **Verwenden** – _1 AP_: Interagiere mit einem Gegenstand *(z.B. Trank trinken, Tür öffnen, Waffe ziehen etc.)*
-- **Angriff** – _1 AP_: Greife einen Gegner physisch an. *(Angriffsprobe)*
-- **Zaubern** – _1 AP_: Nutze deine Magie um anzugreifen, zu helfen oder deine Umgebung zu verändern. *(Arkanaprobe*)
 - **Zielen** - *1 AP*. Nimm dir etwas Zeit für deinen Angriff oder Zauber. *(Bonus auf nächsten Angriff oder Zauber in dieser Runde)*
-- **Überladen** – _1 AP_: Lade deinen Zauber mit Mana auf. *(z.B. mehr Schaden verursachen, mehr Ziele zu bestimmen, größeren Wirkungsbereich etc.)*
-- **Aufrechthalten** – _1 AP_: Halte einen laufenden Zauber länger aufrecht. Max. einen Zauber gleichzeitig. *(Fokusprobe gegen 10 + erlittenen Schaden in der Runde)*
+- **Angriff** – _1 AP_: Greife einen Gegner physisch an. *(Angriffsprobe)*
+- **Zaubern** – *1 AP*: Nutze deine Magie, um anzugreifen, zu helfen oder deine Umgebung zu verändern. *(Arkanaprobe)*
+- **Überladen** – *1 AP*: Verstärke einen Zauber mit Mana, zusätzlich zum AP fürs Zaubern selbst. *(z.B. mehr Schaden, mehr Ziele, größere Reichweite oder Fläche, oder Umwandlung in einen Konzentrationszauber)*
+- **Aufrechthalten** – *1 AP*: Halte einen Konzentrationszauber eine weitere Runde aufrecht. Maximal ein Konzentrationszauber gleichzeitig. *(Bei erlittenem Schaden: Fokusprobe gegen 12 + erlittenen Schaden, sonst automatisch erfolgreich.)*
 
 - **Freie Aktion**: - _0 AP_. Manche Aktionen sind so klein, dass der SL dies als freie Aktion durchgehen lässt.
 - **Sprechen**: - _0 AP_. Ein Spieler darf in einem gewissen Maße in seinem Zug sprechen. Hier gilt als Faustregel: ein Atemzug.
@@ -275,10 +270,16 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Kreative Reaktionen**: - In **Arkana21** geht es um Kreativität. Du hast eine Idee für eine coole Reaktion? Frage den SL ob dieser Diese zulässt.
 
 **4.1.7 Lebensgefahr**
-- **Todesröcheln**: Sinkt ein Held auf 0 Gesundheit, gerät er in den Zustand des Todesröchelns. In diesem kritischen Moment erleidet er jede Runde eine Erschöpfung und ist stark eingeschränkt: Er kann nur noch einen einzigen Aktionspunkt pro Runde einsetzen, und der Einsatz von Ausdauerpunkten ist ihm nicht länger möglich. Zudem muss er am Ende jedes eigenen Zuges eine Konstitution-Probe (12 + 2xGesundheit unter 0) ablegen. Misslingt diese, verliert er 1 weiteren Punkt Gesundheit. Diese wird exklusiv zwischen dem Spieler und dem SL abgehandelt, damit die anderen Mitspieler nicht unbewusst Meta-Gamen.
-- **Stabilisieren**: Ein Held im Todesröcheln kann versuchen, sich für 1 AP selbst zu stabilisieren – auf kreative, der Situation entsprechende Weise. Hierzu ist eine Probe (15 + 2xGesundheit unter 0) erforderlich. Befindet sich ein Verbündeter in unmittelbarer Nähe, kann er ebenfalls eine Stabilisierung versuchen – per Wissens-Probe gegen denselben Wert. Charaktere mit Wissen in Medizin erhalten dabei doppelten Bonus. Ein stabilisierter Held muss keine Konstitution-Proben mehr am Zugende ablegen – jedoch gilt: Erleidet er erneut Schaden, endet die Stabilisierung sofort.
-- **Tod eines Helden**: Sinkt die Gesundheit eines Charakters auf -3 oder weniger, bedeutet dies seinen endgültigen Tod. Nur sehr mächtige Fähigkeiten oder Zauber vermögen es, einen gefallenen Helden ins Leben zurückzuholen.
-- **Tod eines Nicht-Spieler-Charakters**: Ein NPC hat im Normalfall 3 Gesundheit. Fällt ein NPC auf 0 Gesundheit befindet er sich im Todesröcheln. Fällt ein NPC auf -1 Gesundheit stirbt dieser endgültig.
+- **Todesröcheln:** Sinkt ein Held auf 0 Gesundheit, gerät er ins sogenannte Todesröcheln. Er kann pro Runde nur noch 1 Aktionspunkt einsetzen, Ausdauerpunkte kann er nicht mehr nutzen. Am Ende jedes eigenen Zuges erhält er 1 Erschöpfung und muss eine Konstitution-Probe (Schwierigkeit 12) ablegen. Misslingt diese, verliert er 1 weiteren Punkt Gesundheit. Die Probe wird exklusiv zwischen Spieler und SL abgehandelt, damit die anderen Mitspieler nicht unbewusst meta-gamen.
+
+- **Stabilisieren:** Ein Held im Todesröcheln kann sich für 1 AP selbst stabilisieren, oder ein Verbündeter in unmittelbarer Nähe versucht es für ihn. Schwierigkeit in beiden Fällen: 15.
+	- Die Probe nutzt das Attribut, das zur beschriebenen Vorgehensweise passt – im Zweifel Instinkt. Beschreibt der Spieler eine andere sinnvolle Vorgehensweise, legt der SL das passende Attribut fest.
+	- Besitzt der helfende Verbündete Wissen in Medizin/Anatomie, darf er stattdessen eine Wissens-Probe gegen Schwierigkeit 12 ablegen.
+	- Bei Erfolg endet das Todesröcheln, und der Held steigt auf 1 Gesundheit. Fällt seine Gesundheit danach erneut auf 0 oder darunter, gerät er erneut ins Todesröcheln.
+
+- **Tod eines Helden:** Sinkt die Gesundheit eines Charakters auf -3 oder weniger, bedeutet dies seinen endgültigen Tod. Nur sehr mächtige Fähigkeiten oder Zauber vermögen es, einen gefallenen Helden ins Leben zurückzuholen.
+
+- **Tod eines Nicht-Spieler-Charakters:** Ein NPC hat im Normalfall 3 Gesundheit. Fällt ein NPC auf 0 Gesundheit, befindet er sich im Todesröcheln. Fällt ein NPC auf -1 Gesundheit, stirbt er endgültig.
 
 **4.1.8 Gelände und Umgebung**
 - **Erhöhte Position**: Du erhältst einen Bonus auf Angriffsproben gegen Ziele in niedrigerer Position.
@@ -302,9 +303,9 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - Besondere Eigenschaften oder Fähigkeiten von Waffen können den Schaden modifizieren.
   
 **4.2.2 Zauberschaden**
-- Der Schaden eines Zaubers hängt von der eingesetzten **Mana-Menge** ab:
-    - **Kein Mana (Nicht Überladen):** Der Zauber verursacht bei einem normalen Treffer 1 Schaden.
-    - **Zusätzlich eingesetztes Mana (Überladen):** Pro Mana-Punkt kann der Schaden um +1 steigen.
+- Ohne Mana verursacht ein Zauber bei einem normalen Treffer 1 Schaden.
+- Jeder investierte Manapunkt lässt sich in +1 Schaden umwandeln
+- Erzeugt ein Zauber statt Schaden einen Effekt, gilt stattdessen die Effekt-Referenzliste weiter unten.
 
 **4.2.3 Trefferarten**
 - **Normaler Treffer:** Verursacht den regulären Schaden der Waffe oder des Zaubers.
@@ -345,23 +346,23 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 ##### 4.4 Magie im Kampf
 
 **4.4.1 Angriffszauber**
-- Angriffszauber kosten **1 AP** und eine definierte Menge an Mana, abhängig von ihrer Stärke.
-- Der Effekt des Zaubers hängt von der gewählten Zauberausrichtung und der eingesetzten Mana-Menge ab. (Hier entscheidet der SL falls es nicht eindeutig sein sollte)
-- Ein Angriffszauber hat einen Basisschaden von 1 der durch jedes eingesetzte Mana um 1 erhöht werden kann.
+- Ein Angriffszauber kostet 1 AP fürs Wirken
+- optional +1 AP fürs Überladen mit Mana.
+- Der Effekt richtet sich nach der gewählten Zauberausrichtung und der eingesetzten Mana-Menge
+- bei Unklarheiten entscheidet der SL.
 
 **4.4.2 Zauberduell**
-- Ein Zauberduell entsteht, wenn zwei gegensätzliche Zauber (z. B. Feuer gegen Eis) direkt aufeinandertreffen.
-- Voraussetzung:
-    - Der verteidigende Zauber muss thematisch sinnvoll gegen den angreifenden wirken.
-      (Feuer gegen Feuer ❌ | Wasser gegen Feuer ✅) Der Spielleiter entscheidet bei Unsicherheiten.
-    - Es muss sich um einen **überladenen Zauber** handeln.
-- Mechanik:
-    - Beide Figuren führen einen **Fokus-Proben-Wettstreit** durch. Sie erhalten +5 für jeden eingesetzten Manapunkt.
-    - **Ergebnis:**
-        - **Verteidiger gewinnt:** Der Zauber verpufft und hat keine Wirkung.
-        - **Angreifer gewinnt:** Der Zauber wird wie gewohnt ausgeführt.
-        - **Gleichstand:** Der Verteidiger gewinnt das Duell.
-- Ein Zauberduell kostet den Verteidiger mindestens **2 AP**, da es sich um einen **Überladen Zauber** handeln muss.
+Ein Zauberduell ist eine Reaktion: Sieht ein zauberkundiger Charakter, wie ein Gegner einen Zauber wirkt, kann er mit einem eigenen, thematisch passenden Zauber dagegenhalten, statt den gegnerischen Zauber einfach wirken zu lassen.
+
+- Ein Zauberduell entsteht, wenn zwei gegensätzliche Zauber (z.B. Feuer gegen Eis) direkt aufeinandertreffen.
+- Voraussetzungen:
+	- Der verteidigende Zauber muss thematisch sinnvoll gegen den angreifenden wirken. (Feuer gegen Feuer ❌ | Wasser gegen Feuer ✅) Der SL entscheidet bei Unsicherheiten.
+	- Es muss sich um einen überladenen Zauber handeln – er muss also mit mindestens 1 Mana verstärkt worden sein.
+- Mechanik: Beide Figuren führen einen Fokus-Proben-Wettstreit durch. Sie erhalten pro eingesetztem Manapunkt einen Bonus.
+	- **Verteidiger gewinnt:** Der Zauber verpufft und hat keine Wirkung.
+	- **Angreifer gewinnt:** Der Zauber wird wie gewohnt ausgeführt.
+	- **Gleichstand:** Der Verteidiger gewinnt das Duell.
+- Ein Zauberduell kostet den Verteidiger mindestens 2 AP (1 AP Zaubern + 1 AP Überladen), da es sich um einen überladenen Zauber handeln muss.
 
 ---
 
@@ -422,142 +423,96 @@ Die Magie in Arkana21 ist vielseitig und wird in verschiedene Zauberarten untert
 
 ##### 5.2 Zaubernutzung
 
-**5.2.1 Durchführung von Zaubern**
+**5.2.1 Grundprinzip**
+Zaubern in Arkana21 beruht auf Vorstellungskraft, Konzentration und Willenskraft – nicht auf einer festen Zauberliste. Der Spieler beschreibt, welchen Effekt er erzielen möchte, und legt anschließend eine Arkana-Probe ab. Das Ergebnis entscheidet, ob und wie stark der Zauber gelingt: Ein Erfolg lässt die Magie wie gewünscht wirken, ein Fehlschlag kann den Effekt abschwächen, verformen oder scheitern lassen.
 
-Zaubern in **Arkana21** beruht auf Vorstellungskraft, Konzentration und Willenskraft – nicht auf starren Formeln.  
-Um einen Zauber zu wirken, beschreibt der Spieler klar, welchen Effekt er erzielen möchte, und führt anschließend eine passende Probe auf Arkana durch.
-Das Ergebnis der Probe entscheidet, ob und wie stark der Zauber gelingt.  
-Ein erfolgreicher Wurf lässt die Magie wie gewünscht wirken; ein Fehlschlag kann den Effekt abschwächen, verformen oder scheitern lassen.
+Jeder Zauber liefert dabei entweder Schaden oder einen Effekt als Grundwirkung. Diese Grundwirkung kannst du auf drei Arten verstärken, einzeln oder kombiniert: mit Mana, durch geschicktes Verteilen deiner kostenlosen Grundstufe (Fokuslenkung), oder einfach durch einen richtig guten Wurf.
 
-> **Beispiel:**  
-> Ein Magier will einen Funken entzünden, um eine Fackel zu entflammen.  
-> Dies ist ein einfacher Effekt (Zauberstufe 0) und gelingt bei einer gelungenen Arkana-Probe automatisch – kein Mana nötig.  
-> Würde der Magier jedoch eine Feuerlanze erschaffen wollen, die mehrere Gegner trifft, müsste er den Zauber **überladen** (siehe unten) und Mana einsetzen.
+> **Beispiel:** Ein Magier will einen Funken entzünden, um eine Fackel zu entflammen. Das ist ein einfacher Effekt auf Grundstufe und gelingt bei einer erfolgreichen Arkana-Probe automatisch – ohne Mana. Will er stattdessen eine Feuerlanze erschaffen, die mehrere Gegner trifft, muss er den Zauber überladen und dafür Mana einsetzen.
 
-Klassische Zauber wie „Feuerball“ oder „Eisspeer“ können als Inspiration dienen, doch der Schwerpunkt liegt auf **kreativer, freier Zaubergestaltung**, die in die Welt und Situation passt.
+Klassische Zauber wie „Feuerball" oder „Eisspeer" dienen nur als Inspiration – der Schwerpunkt liegt auf kreativer, freier Zaubergestaltung, passend zu Welt und Situation.
 
----
+**5.2.2 Die Basis jedes Zaubers**
+Jeder Zauber besteht ohne Manaeinsatz aus denselben vier Grundwerten (der „Grundstufe"):
 
-##### 5.2.2 Mana, Zauberstufen & Überladung
+| Aspekt | Standardwert |
+| --- | --- |
+| Reichweite | 20 Felder |
+| Wirkung | 1 Schaden oder ein einfacher Effekt |
+| Ziel | 1 Wesen oder Objekt |
+| Dauer | 1 Runde |
+| Fläche | 0 Felder (kein Flächeneffekt) |
 
-Ein Zauber zu wirken kostet **kein Mana**, solange er auf seiner **Grundstufe (Stufe 0)** bleibt.  
-Mana wird erst dann eingesetzt, wenn der Zauber **verstärkt oder überladen** wird – also über seine normale Stärke hinaus.
-Ein Charakter kann Zauber nur bis zur **maximalen Stufe seines eigenen Levels** wirken.  
-Zauber ohne Manaverbrauch gelten als **Stufe 0**.
-Wird ein Zauber über seine Grundstufe hinaus verstärkt, so gilt:
-- Für **jedes zusätzliche Level**, um das der Zauber erhöht wird, wird **1 Mana** aufgewendet.
-- Das Überladen selbst kostet **immer 1 Aktionspunkt (AP)** – unabhängig davon, wie viel Mana eingesetzt wird.
+Diese Werte gelten automatisch, solange kein Mana investiert wird.
 
-> **Beispiel:**  
-> Eine Magierin möchte ihren Feuerstoß (normal 1 Schaden) so verstärken, dass er 2 Schaden verursacht und doppelt so weit reicht.  
-> Dafür gibt sie **2 Mana** aus (einmal für +1 Schaden, einmal für +20 Felder Reichweite) und **1 AP** für die Überladung.
+**5.2.3 Effekte – Referenzliste**
+Ein Zauber, der keinen Schaden verursacht, erzeugt stattdessen einen Effekt. Die folgende Tabelle listet die gängigsten Effekte mit ihrer kostenlosen Grundstufe und ihrer Verstärkung pro investiertem Mana. Mehrere Verstärkungen desselben Effekts lassen sich durch entsprechend mehr Mana kombinieren. Einen hier nicht gelisteten Effekt legt der SL sinngemäß nach demselben Muster fest.
 
----
+| Effekt | Grundstufe (kein Mana) | Verstärkung pro Mana |
+| --- | --- | --- |
+| Betäubung | Das Ziel erhält 1 Betäubung – das kostet ihm 1 AP in seiner nächsten Runde, danach ist die Betäubung vorbei | +1 weitere Betäubung (mehrere addieren sich, wirken aber nur in dieser einen Runde) |
+| Bewegungseinschränkung | Bewegungsrate des Ziels halbiert sich für 1 Runde | Bewegungsrate sinkt auf 0 (Ziel gilt als Gebunden), oder Dauer +1 Runde |
+| Malus auf Proben | Ziel erhält -3 auf seine nächste Probe | +1 weiteres Ziel, oder der Malus gilt für eine zusätzliche Probe |
+| Geblendet | Ziel erhält -3 auf sichtabhängige Proben für 1 Runde | Der Malus gilt auf alle Proben, oder Dauer +1 Runde |
+| Verängstigt | Ziel muss sich, sofern möglich, vom Zauberwirker wegbewegen, für 1 Runde | Ziel kann den Zauberwirker zusätzlich nicht direkt angreifen, oder Dauer +1 Runde |
+| Vergiftet | Ziel erleidet am Ende seines nächsten Zuges 1 zusätzlichen Schaden | +1 weiterer Schadens-Tick, oder Dauer +1 Runde |
+| Unterstützung (Gestärkt/Fokussiert) | 1 Verbündeter erhält +3 auf seine nächste Probe | +1 weiteres Ziel, oder der Bonus gilt für eine zusätzliche Probe |
+| Umgebungsmanipulation | Eine kleine, rein beschreibende Veränderung der Umgebung ohne Probenzwang | Die Veränderung erzwingt eine Probe, oder wirkt über eine größere Fläche |
 
-##### 5.2.3 Zauberkombinationen
+**5.2.4 Überladen – Verstärkung durch Mana**
+Jeder investierte Manapunkt kauft genau eine der folgenden Verstärkungen:
 
-Zauber können kombiniert werden, um komplexe oder mächtigere Effekte zu erzeugen.  
-Dies kann durch mehrere Magier oder durch unterschiedliche Zauberquellen eines einzelnen Charakters geschehen.
-Die Kombination sollte erzählerisch und logisch sinnvoll sein.
+| Manapunkt | Verstärkung |
+| --- | --- |
+| +1 Mana | +1 Schaden, oder eine Effekt-Verstärkung gemäß der Tabelle oben |
+| +1 Mana | +1 weiteres Ziel |
+| +1 Mana | +20 Felder Reichweite |
+| +1 Mana | +1 Feld Radius Flächenwirkung |
+| +1 Mana | Wandelt den Zauber in einen Konzentrationszauber um |
 
-> **Beispiel:**  
-> _Ein Druide lässt Wurzeln aus dem Boden schießen, während ein Feuermagier sie entzündet._  
-> Das Ergebnis ist ein Flammennetz, das Gegner fesselt und verbrennt.
+Anders als die übrigen Verstärkungen in dieser Tabelle ist die Umwandlung in einen Konzentrationszauber kein zusätzlicher, mit den anderen kombinierbarer Bonus, sondern wandelt den gesamten Zauber dauerhaft um – keine einmalige Verlängerung um eine Runde, sondern ein eigener Mechanismus mit eigenen Kosten und Risiken, der weiter unten genauer beschrieben ist.
 
-Der **Spielleiter** entscheidet, ob die Kombination gelingt, welche Boni oder Risiken entstehen und ob zusätzliche Mana- oder AP-Kosten anfallen.
+Ein Charakter kann einen einzelnen Zauber mit höchstens so viel Mana überladen, wie sein Level beträgt. Der verfügbare Manapool begrenzt zusätzlich, wie viel Mana insgesamt zur Verfügung steht.
 
----
+**Wichtig:** Ein überladener Zauber kostet insgesamt 2 Aktionspunkte – 1 AP für das Zaubern selbst und 1 AP für das Überladen. Das gilt unabhängig davon, wie viel Mana eingesetzt wird.
 
-##### 5.2.4 Struktur eines Zaubers
+> **Beispiel:** Eine Magierin will ihren Feuerstoß (normal 1 Schaden) auf 2 Schaden und doppelte Reichweite verstärken. Sie zahlt dafür 2 Mana (je 1 für +1 Schaden und +20 Felder Reichweite) sowie 2 AP (1 fürs Zaubern, 1 fürs Überladen).
 
-Jeder Zauber in _Arkana21_ besteht aus vier Grundkomponenten:
+**5.2.5 Fokuslenkung – Verstärkung ohne Mana**
+Ein Zauberwirker kann sich beim Wirken bewusst einschränken, um dafür einen anderen Aspekt zu verstärken – ganz ohne Mana. Das ist kein Überladen und kostet kein zusätzliches AP; es ist Teil der normalen Zaubern-Aktion und beschreibt lediglich, wie die kostenlose Grundstufe verteilt wird.
 
-| Aspekt         | Beschreibung                                | Standardwert (Stufe 0)          |
-| -------------- | ------------------------------------------- | ------------------------------- |
-| **Reichweite** | Wie weit der Zauber reicht                  | 20 Felder                       |
-| **Wirkung**    | Schaden oder Effektstärke                   | 1 Schaden oder einfacher Effekt |
-| **Ziel**       | Wie viele Wesen oder Objekte betroffen sind | 1 Ziel                          |
-| **Dauer**      | Wie lange der Effekt anhält                 | 1 Runde                         |
-| **Fläche**     | Radius der Flächenwirkung                   | 0 Felder                        |
+> **Beispiele:** Ein Berührungszauber (Reichweite 0) für mehr Schaden oder einen stärkeren Effekt. Ein Selbstzauber (kein Zielwechsel) für längere Dauer oder verbesserte Wirkung. Ein statischer Effekt (z.B. eine magische Falle) für größere Präzision oder ein zusätzliches Ziel.
 
-Diese Werte bilden die **Basis jedes Zaubers**, solange kein Mana investiert wird.
+Der SL entscheidet, wie stark ein solcher Tausch im Einzelfall ausfällt.
 
----
+**5.2.6 Volltreffer & Kritische Erfolge – Macht ohne Mana**
+Auch ohne Mana kann eine besonders gute Arkana-Probe die Wirkung eines Zaubers verstärken:
 
-**Fokuslenkung – Stärke durch Verzicht**
+| Erfolgsgrad | Effekt |
+| --- | --- |
+| Volltreffer (5 über dem Zielwert) | +1 Bonus auf die Wirkung (z.B. +1 Schaden) |
+| Kritischer Erfolg (10 über dem Zielwert) | +2 Bonus auf die Wirkung (z.B. +2 Schaden oder +1 Schaden und ein verstärkter Effekt) |
 
-Ein Zauberwirker kann sich bewusst **einschränken**, um andere Aspekte seines Zaubers zu verstärken.  
-Verzicht auf eine Komponente erlaubt eine Verbesserung einer anderen.
+Ein Kritischer Wurf – zwei gleiche Würfel mit einem günstigen dritten Würfel – gilt dabei automatisch als Kritischer Erfolg im Sinne dieser Tabelle, unabhängig vom tatsächlichen Abstand zum Zielwert.
 
-> **Beispiele:**
-> - **Berührungszauber** (Reichweite 0) → +1 Schaden oder stärkerer Effekt
-> - **Selbstzauber** (kein Zielwechsel) → längere Dauer oder verbesserte Wirkung
-> - **Statischer Effekt** (z. B. eine magische Falle) → größere Präzision oder zusätzliche Ziele
+Diese Boni ergänzen den Manaeinsatz, ersetzen ihn aber nicht.
 
-Diese Technik erlaubt feinere Kontrolle und gibt Spielern mehr Freiheit, den Stil ihres Charakters zu betonen.
+**5.2.7 Konzentrationszauber**
+Ein Zauber kann beim Wirken in einen Konzentrationszauber umgewandelt werden (kostet +1 Mana zusätzlich zu allen anderen Manakosten). Er wirkt dann nicht nur einmalig, sondern bleibt aktiv und wiederholt seinen Effekt automatisch zu Beginn jedes Zuges des Zauberwirkers – ohne erneuten Arkana-Wurf. Volltreffer und Kritische Erfolge sind dabei nicht möglich. Maximal ein Konzentrationszauber gleichzeitig.
 
----
+Diese Regel gilt unverändert im Kampf und außerhalb des Kampfes:
 
-**Manaeinsatz – Überladung von Zaubern**
+- **Aufrechterhalten:** Solange sich der Zauberwirker weiterhin auf den Zauber konzentriert, bleibt er bestehen. Im Kampf kostet das Aufrechthalten 1 AP pro Runde; außerhalb des Kampfes bedeutet es schlicht, dass der Charakter dadurch gebunden ist und nichts tun kann, das seine volle Aufmerksamkeit verlangen würde – der SL entscheidet, was damit vereinbar ist.
+- **Störung:** Erleidet der Zauberwirker Schaden oder wird seine Konzentration auf andere Weise ernsthaft gestört (z.B. ein heftiger Stoß oder Schreck – SL-Ermessen außerhalb des Kampfes), muss er eine Fokusprobe gegen 12 + erlittenen Schaden (bzw. eine vom SL festgelegte gleichwertige Schwierigkeit außerhalb des Kampfes) ablegen. Misslingt sie, bricht die Konzentration und der Zauber endet sofort.
+- **Ziel außer Reichweite:** Der Zauber endet sofort. Die investierte Reichweite aus dem initialen Wirken gilt weiterhin – wer mehr Reichweite braucht, muss das beim Wirken entsprechend einkalkulieren.
+- **Zauberduell:** Während ein Konzentrationszauber aufrechterhalten wird, kann der Zauberwirker kein Zauberduell führen.
 
-Wird ein Zauber über seine Grundstufe hinaus verstärkt, kann Mana eingesetzt werden.  
-Jeder **Manapunkt** erlaubt **eine gezielte Verstärkung**:
+**5.2.8 Zauberkombinationen**
+Zauber können kombiniert werden, um komplexere oder mächtigere Effekte zu erzeugen – durch mehrere Zauberwirker gemeinsam oder durch unterschiedliche Zauberquellen eines einzelnen Charakters. Die Kombination sollte erzählerisch und logisch sinnvoll sein.
 
-| Eingesetztes Mana | Verstärkung                      |
-| ----------------- | -------------------------------- |
-| +1 Mana           | +1 Schaden oder stärkerer Effekt |
-| +1 Mana           | +1 weiteres Ziel                 |
-| +1 Mana           | +20 Felder Reichweite            |
-| +1 Mana           | +1 Feld Radius Flächenwirkung    |
-| +1 Mana           | Konzentrationszauber             |
+> **Beispiel:** Ein Druide lässt Wurzeln aus dem Boden schießen, während ein Feuermagier sie entzündet – das Ergebnis ist ein Flammennetz, das Gegner fesselt und verbrennt.
 
-> Das Überladen kostet **immer 1 AP**, unabhängig davon, wie viel Mana verwendet wird.
-
----
-
-**Volltreffer & Kritische Erfolge – Macht ohne Mana**
-
-Beim Wirken eines Zaubers entscheidet eine **Probe auf Arkana** über das Ergebnis.  
-Besonders hohe Würfe können die Wirkung verstärken – ohne zusätzlichen Manaverbrauch.
-
-| Erfolgsgrad                                  |Effekt|
-|---|---|
-| **Volltreffer** (5 über dem Zielwert)        |+1 Bonus auf Wirkung (z. B. +1 Schaden)|
-| **Kritischer Erfolg** (10 über dem Zielwert) |+2 Bonus auf Wirkung (z. B. +2 Schaden oder +1 Schaden & verstärkter Effekt)|
-
-Diese Boni **ergänzen**, aber **ersetzen** nicht den Einsatz von Mana.
-
----
-
-**Zusammenfassung – Zauberkomponenten & Verstärkung**
-
-| Komponente     | Basiswert          | Verstärkung durch Mana | Verstärkung durch Erfolg     |
-| -------------- | ------------------ | ---------------------- | ---------------------------- |
-| **Reichweite** | 20 Felder          | +20 Felder / Mana      | —                            |
-| **Wirkung**    | 1 Schaden / Effekt | +1 / Mana              | Volltreffer +1 · Kritisch +2 |
-| **Ziel**       | 1 Person / Objekt  | +1 / Mana              | —                            |
-| **Dauer**      | 1 Runde            | Konzentrationszauber   | —                            |
-
-> Diese Werte sind als **Richtlinien** gedacht, nicht als starre Regeln.  
-> Sie sollen Spielleiter und Spieler unterstützen, Effekte einzuschätzen und Magie flexibel zu gestalten.  
-> Letztlich liegt die Entscheidung – wie immer – beim **Spielleiter**.
-
----
-
-##### 5.2.5 Konzentrationszauber
-
-Ein Zauber kann beim Wirken in einen Konzentrationszauber umgewandelt werden. Dies kostet beim Wirken +1 Mana zusätzlich zu allen anderen Manakosten. Der Zauber wirkt dann nicht nur einmalig, sondern bleibt aktiv und wiederholt seinen Effekt zu Beginn jedes Zuges des Zauberwirkers automatisch – ohne erneuten Wurf auf Arkana. Volltreffer und kritische Treffer sind dabei nicht möglich.
-
----
-
-Einschränkungen
-
-| Bedingung             | Auswirkung                                                                                                                                                                  |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Konzentration halten  | Kostet 1 AP pro Runde. Nur ein Konzentrationszauber gleichzeitig möglich.                                                                                                   |
-| Schaden erleiden      | Fokusprobe (12 + erlittener Schaden). Misslingt sie, bricht die Konzentration und der Zauber endet sofort.                                                                  |
-| Ziel außer Reichweite | Der Zauber endet sofort. Die investierte Reichweite aus dem initialen Wirken gilt weiterhin – wer mehr Reichweite benötigt, muss beim Wirken entsprechend Mana investieren. |
-| Zauberduell           | Während ein Konzentrationszauber aufrechterhalten wird, kann der Zauberwirker kein Zauberduell führen.                                                                      |
+Der SL entscheidet, ob die Kombination gelingt, welche Boni oder Risiken entstehen und ob zusätzliche Mana- oder AP-Kosten anfallen.
 
 ---
 
@@ -694,10 +649,11 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 > _**Zustände** beschreiben anhaltende Effekte, die eine Kreatur im Laufe eines Abenteuers beeinflussen können. Sie wirken sich direkt auf Proben aus – entweder positiv oder negativ – und können durch Magie, Rast oder Zeit überwunden werden._
 
 **Grundprinzipien:**
-- **Positive Zustände** verleihen **einen Bonus** auf bestimmte oder alle Proben.
-- **Negative Zustände** verursachen **einen Malus** auf bestimmte oder alle Proben.
-- Zustände können **stapelbar** sein – ihre Effekte summieren sich.
-- Einige Zustände enden **automatisch nach einer bestimmten Zeit**, andere nur durch **Magie, Hilfe oder eine lange Rast**.
+- **Positive Zustände** verleihen einen Bonus auf bestimmte oder alle Proben.
+- **Negative Zustände** verursachen einen Malus auf bestimmte oder alle Proben.
+- Liegt derselbe Zustand mehrfach vor, bleibt sein Bonus/Malus einfach – er addiert sich nicht zusätzlich. Mehrfaches Vorliegen verlängert stattdessen, wie lange es dauert, den Zustand vollständig loszuwerden.
+- Liegen mehrere unterschiedliche Zustände gleichzeitig vor, addieren sich ihre jeweiligen Boni/Mali.
+- Einige Zustände enden automatisch nach einer bestimmten Zeit, andere nur durch Magie, Hilfe oder eine lange Rast.
 
 **Positive Zustände (Beispiele)**
 - **Gestärkt:** Du fühlst dich kräftiger und energischer.
@@ -710,14 +666,10 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - **Vergiftet:** Dein Körper ist geschwächt durch eine toxische Substanz.
 - **Verängstigt:** Du bist gehemmt oder eingeschüchtert.
 - **Geblendet:** Deine Sicht ist stark beeinträchtigt.
-- **Verwirrt:** Deine Gedanken sind unklar oder instabil.
-- **Gebunden:** Deine Bewegungsfreiheit ist eingeschränkt.
-- **Geschwächt:** Deine Kraft oder Widerstandsfähigkeit ist reduziert.
-
 - **Erschöpft:** Du hast deine körperlichen oder geistigen Reserven überstrapaziert.
 
-> _Negative Zustände vergehen unterschiedlich schnell. Manche verschwinden **automatisch nach einigen Runden oder Minuten** wogegen andere **aktive Hilfe, Magie oder ein Heilmittel** erfordern._
-> _**Erschöpfung** kann ausschließlich durch eine **lange Rast** gelindert werden. Sie steht sinnbildlich für körperliche, geistige und magische Überlastung – etwas, das nur durch Zeit und Ruhe geheilt werden kann. Pro langer Rast kann eine Erschöpfung gelindert werden. Erreicht eine Kreatur jedoch den fünften Punkt an Erschöpfung, erliegt sie der völligen Erschöpfung und stirbt sofort._
+> _Negative Zustände vergehen unterschiedlich schnell. Manche verschwinden automatisch nach einigen Runden oder Minuten, wogegen andere aktive Hilfe, Magie oder ein Heilmittel erfordern._
+> _**Erschöpfung** kann ausschließlich durch eine lange Rast gelindert werden. Sie steht sinnbildlich für körperliche, geistige und magische Überlastung – etwas, das nur durch Zeit und Ruhe geheilt werden kann. Pro langer Rast wird ein Punkt Erschöpfung gelindert. Erreicht eine Kreatur den fünften Punkt an Erschöpfung, erliegt sie der völligen Erschöpfung und stirbt sofort._
 
 #### 7.11 Rast
 > _**Rasten** erlaubt es deinem Charakter, sich von den Strapazen des Abenteurerlebens zu erholen. Sie stellt Ressourcen wieder her und markiert erzählerisch den Übergang zwischen intensiven Ereignissen._
