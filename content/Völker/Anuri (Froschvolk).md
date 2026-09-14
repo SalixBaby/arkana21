@@ -24,4 +24,4 @@ Anuri leben meist in eng verbundenen Gemeinschaften, in denen Entscheidungen gem
 
 **Volksfähigkeiten**:
 - **Sprungkraft** – _4 AP_: Anuri können ihre kräftigen Beine dazu nutzen um omnidirektional und doppelt so weit wie normal zu springen.
-- **Klebrige Zunge** – _1 AP_: Ihre lange, flexible Zunge erlaubt es Anuri, Objekte oder kleine Kreaturen aus bis zu 3 Feldern Entfernung zu sich heranzuziehen.
+- **Klebrige Zunge** – _1 AP_: Ihre lange, flexible Zunge erlaubt es Anuri, Objekte oder kleine Kreaturen aus bis zu 2 Feldern Entfernung zu sich heranzuziehen.
