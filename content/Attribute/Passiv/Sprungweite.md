@@ -1,0 +1,2 @@
+Die Sprungweite gibt an, wie weit ein Charakter mit Anlauf springen kann. Sie ergibt sich aus dem Sprungwert seines Volkes und seiner Stärke und entscheidet, ob er Hindernisse wie Gräben, Mauern oder Abgründe überwinden oder die Distanz zu einem Gegner schnell schließen kann. Charaktere mit hoher Springweite kommen dort weiter, wo andere umständliche Umwege gehen müssen.
+Aus dem Stand, also ohne Anlauf, kann ein Charakter nur die Hälfte seiner Springweite überwinden. Direkt nach oben schafft er sogar nur ein Drittel.
