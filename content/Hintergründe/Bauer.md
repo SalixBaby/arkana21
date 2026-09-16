@@ -4,7 +4,7 @@
 
 **Segen: Erde und Ausdauer**
 - +1 auf [[Attribute/Körper/-Körper-|Körper]] oder [[Attribute/Seele/-Seele-|Seele]]
-- Wissen in Natur/Kreaturen
+- Wissen in Naturkunde/Kreaturen
 - **Genügsamkeit** - kommt mit halb so vielen Nahrungs-/Wasserrationen aus und kann aus einfachsten Mitteln improvisierte Werkzeuge oder Unterkünfte herstellen
 
 **Fluch: Ortsgebunden**
