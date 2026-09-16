@@ -8,7 +8,7 @@
 - Umgang mit [[Lederhandwerks Set|Lederhandwerks Set]], [[Steinmetz Set|Steinmetz Set]] oder [[Schmiede Set|Schmiede Set]]
 - **Flicker** - Halbe Zeiten für Reparatur aller Art
 
-**Fluch: Tunnelblick**
+**Fluch: Scheuklappen**
 - Verliert sich in Arbeit und Projekten
 - Oft wenig Aufmerksamkeit für soziale Interaktionen
     - Optional: Perfektionismus
