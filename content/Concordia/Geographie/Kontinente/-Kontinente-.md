@@ -1,0 +1,10 @@
+>Drei Kontinente sind in Concordia bekannt, und kaum unterschiedlicher könnten sie sein.
+
+### Lux
+[[Concordia/Geographie/Kontinente/Lux/Lux|Lux]] ist der größte und am dichtesten besiedelte der drei – Heimat der sechs Königreiche des Abkommens: Asch, Azyl, Kron, Ors, Vroos und Wog. Der Kontinent hat die grobe Form einer nach Osten gekrümmten Sanduhr: eine breitere Nord- und eine breitere Südhälfte, verbunden durch eine schmale Landenge in der Mitte. An seiner Ostküste schließt diese Krümmung die ruhige Bucht Lavis ein, während das offene, gefährliche Ferus den Rest des Kontinents umgibt. Zwei alte Handelsrouten durchziehen Lux wie ein Kreuz und treffen sich im Königreich Azyl.
+
+### Nox
+[[Concordia/Geographie/Kontinente/Nox/Nox|Nox]] liegt weit im Norden jenseits von Ferus – ein Fleck, den man von Vroos aus bei klarem Wetter allenfalls als Schatten am Horizont erahnen kann. Nur wenige Seefahrer haben sich je in seine Nähe gewagt, und auf den meisten Karten steht an seiner Stelle nur ein vager, unbestimmter Umriss. Über Nox ist kaum mehr bekannt als Seemannsgarn: Geschichten von namenlosem Grauen ebenso wie von unermesslichen Schätzen – wie viel Wahrheit darin steckt, weiß niemand, der noch spricht.
+
+### Pax
+[[Concordia/Geographie/Kontinente/Pax/Königreich Pax|Pax]] ist keine große Landmasse, sondern eine gebirgige Insel westlich von Lux, knapp ein Fünftel so groß wie der große Nachbarkontinent – und zugleich das siebte Königreich Concordias. Ihr schroffes, erzreiches Gelände hat sie zum wichtigsten Handelspartner des Königreichs Wog gemacht, das als einziges Tor für ihre Bodenschätze nach Lux dient. Regiert wird Pax von einem einzigen Königshaus, das die Insel dennoch in zwei eigenständige Höfe teilt: Grauhall hoch in den Bergen und Neuhafen unten an der Küste. Anders als die sechs Königreiche von Lux ist Pax kein Teil des Handels- und Nichtangriffsabkommens.
