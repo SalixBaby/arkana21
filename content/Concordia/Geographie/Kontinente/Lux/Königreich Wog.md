@@ -1,0 +1,11 @@
+> _Wog ist das Tor zum [[Concordia/Geographie/Kontinente/Pax/Königreich Pax|Königreich Pax]] – Schiffbauer, Seefahrer und die einzige Verbindung zwischen den Erzen der Insel und dem Rest von [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]]._
+
+Wog liegt an der Westküste von [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]], direkt dem [[Concordia/Geographie/Kontinente/Pax/Königreich Pax|Königreich Pax]] gegenüber – hier ist die Überfahrt zur Insel am kürzesten. Steile Klippen wechseln sich mit geschützten Buchten ab, in denen sich Werften und Fischerdörfer aneinanderreihen; die Hauptstadt **Sturmtor** verdankt ihren Namen den heftigen Herbststürmen, die hier regelmäßig von [[Concordia/Geographie/Ozeane/Ferus|Ferus]] hereinziehen. Ihr Hafen ist von Trockendocks und Werften gesäumt, in denen rund um die Uhr gehämmert und getischlert wird.
+
+### Land und Wirtschaft
+Schiffbau ist das Herz der Wirtschaft von Wog – kaum ein Kiel auf [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]] wird anderswo besser gezimmert. Wogs Häfen sind das einzige Einfallstor für die Erze und Bodenschätze vom [[Concordia/Geographie/Kontinente/Pax/Königreich Pax|Königreich Pax]], doch der große Profit aus deren Weiterverkauf landet meist im [[Concordia/Geographie/Kontinente/Lux/Königreich Kron|Königreich Kron]], nicht in Wog selbst – ein Umstand, der viele in Wog mit einigem Groll erfüllt.
+
+### Volk und Glaube
+Die Bewohner von Wog sind seefahrendes Volk: wetterfest, pragmatisch und eng mit dem [[Concordia/Geographie/Kontinente/Pax/Königreich Pax|Königreich Pax]] verbunden, mit dem man mehr Handel treibt als mit manch einem der eigenen Nachbarreiche. Vor jeder Ausfahrt auf [[Concordia/Geographie/Ozeane/Ferus|Ferus]] bittet man um den Segen von [[Concordia/Pantheon/Anima – die Hüterin|Anima – die Hüterin]] – kaum ein Boot verlässt Sturmtors Hafen ohne ihr kleines Schutzzeichen am Bug.
+
+[[Völker/Anuri (Froschvolk)|Anuri (Froschvolk)]] und [[Völker/Lupari (Wolfvolk)|Lupari (Wolfvolk)]] stammen vermutlich ursprünglich aus Wog und sind hier bis heute am häufigsten zu Hause. Die [[Völker/Anuri (Froschvolk)|Anuri (Froschvolk)]] fühlen sich in den feuchten Flussmündungen und der Küste wohl, und die [[Völker/Lupari (Wolfvolk)|Lupari (Wolfvolk)]] begleiten so manches Fischerboot als scharfsinnige Spürnasen.
