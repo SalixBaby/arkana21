@@ -1,0 +1,11 @@
+> _Azyl ist der neutrale Boden inmitten von [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]] – kein Königreich der Schwerter, sondern eines der Eide, Verträge und Tempel._
+
+Azyl liegt in der schmalen Landenge, die die Nord- und Südhälfte von Lux verbindet – der "Taille" des Kontinents. Landumschlossen und ohne eigenen Meerzugang, dafür an der Kreuzung der beiden großen Handelsrouten des Kontinents gelegen: der West-Ost-Route zwischen [[Concordia/Geographie/Kontinente/Lux/Königreich Wog|Königreich Wog]] und [[Concordia/Geographie/Kontinente/Lux/Königreich Kron|Königreich Kron]] und der Nord-Süd-Route zwischen [[Concordia/Geographie/Kontinente/Lux/Königreich Vroos|Königreich Vroos]] und [[Concordia/Geographie/Kontinente/Lux/Königreich Asch|Königreich Asch]]. Beide Routen treffen sich unmittelbar vor den Toren der Hauptstadt **Fried**.
+
+### Land und Wirtschaft
+Azyl ist das kleinste der sechs Königreiche und besitzt kaum eigene Bodenschätze oder Ackerland von Bedeutung. Sein Reichtum ist ein anderer: Zölle und Standgebühren der durchziehenden Karawanen, dazu Pilger und Gesandte, die auf dem Weg zum großen Tempel Quartier, Verpflegung und Schreibdienste benötigen. Die Hauptstadt Fried selbst ist eine Stadt ohne Stadtmauern und ohne stehendes Heer – ihr Schutz ist der Ruf der Neutralität, den seit Generationen niemand zu brechen wagt.
+
+### Volk und Glaube
+Fried beherbergt den größten Tempel des Pantheons der Sechs auf ganz [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]], und mit ihm die größte Ansammlung von Gelehrten, Rechtssprechern und Schreibern des Kontinents. Hier wird das Handels- und Nichtangriffsabkommen traditionell erneuert, hier werden Streitigkeiten zwischen den Königreichen verhandelt. Besonders eng verbunden ist Azyl mit [[Concordia/Pantheon/Lex – der Weltenvater|Lex – der Weltenvater]], Gott des Gesetzes – Richter und Gesandte aus allen sechs Reichen legen ihre Eide an seinem Altar ab. Die Bevölkerung selbst ist überwiegend städtisch, gebildet und auf ihren Ruf als ehrliche Vermittler bedacht.
+
+[[Völker/Aldori (Hirschvolk)|Aldori (Hirschvolk)]] und [[Völker/Lumari (Taubenvolk)|Lumari (Taubenvolk)]] stammen vermutlich ursprünglich aus Azyl und sind hier bis heute am häufigsten anzutreffen – die einen mit ihrer ruhigen, wachsamen Art, die anderen als geschickte Vermittler und Boten zwischen den Reichen.
