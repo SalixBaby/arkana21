@@ -1,0 +1,16 @@
+> _Pax ist die bergige Insel westlich von [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]] reich an Bodenschätzen und seit jeher unter einem einzigen Königshaus geeint – auch wenn dieses Haus selbst in zwei Hälften mit sehr unterschiedlichen Vorstellungen von Herrschaft zerfällt._
+
+Pax liegt im [[Concordia/Geographie/Ozeane/Ferus|Ferus]] westlich von [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]] und ist nur etwa ein Fünftel so groß wie der größere Kontinent. Die Insel ist überwiegend gebirgig und außerordentlich reich an Erzen und anderen Bodenschätzen – ein Reichtum, der sie zum wichtigsten Handelspartner des [[Concordia/Geographie/Kontinente/Lux/Königreich Wog|Königreich Wog]] macht, das als einziges Tor für die Erze nach [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]] dient.
+
+Regiert wird Pax von einem einzigen Königshaus, das die Insel jedoch in zwei Herrschaftsbereiche teilt: **Nord** und **Süd**. An der Spitze der beiden Hälften stehen zwei Brüder, die sich in ihrer Auffassung von guter Herrschaft grundlegend uneinig sind – eine Spannung, die die Politik der Insel prägt, ohne dass es je zum offenen Bruch zwischen den Brüdern gekommen wäre.
+
+### Lage und Landschaft
+Pax liegt vor der Westküste von [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]], dem [[Concordia/Geographie/Kontinente/Lux/Königreich Wog|Königreich Wog]] direkt gegenüber. Die Insel ist von schroffem, bergigem Gelände geprägt, das ihren Reichtum an Bodenschätzen erklärt, aber auch ihre Bevölkerung und Städte auf enge, verteidigungsfähige Täler und Küstenstreifen beschränkt.
+
+### Herrschaft: Nord und Süd
+Die beiden Herrschaftsbereiche folgen keiner strikt geografischen Nord-Süd-Teilung im geometrischen Sinne, sondern zwei getrennten Höfen desselben Königshauses.
+
+Der eine Hof sitzt in **Grauhall**, hoch in den Bergen – dem alten, ursprünglichen Regierungssitz der Krone von Pax, der zunehmend in den Schatten der Bedeutungslosigkeit gerät. In Grauhall liegt auch die größte Bibliothek der Welt, in der über Generationen enormes Wissen zusammengetragen und gehortet wurde – doch längst nicht jeder darf ihre Hallen betreten. Der andere Hof hält in **Neuhafen** unten an der Küste Hof, das durch den wachsenden Handel mit Wog immer wichtiger wird und sich zusehends als die eigentliche Hauptstadt der Insel versteht.
+
+### Volk
+[[Völker/Strixan (Eulenvolk)|Strixan (Eulenvolk)]], [[Völker/Ursa (Bärenvolk)|Ursa (Bärenvolk)]] und [[Völker/Vulpin (Fuchsvolk)|Vulpin (Fuchsvolk)]] stammen vermutlich ursprünglich aus Pax und sind hier bis heute am häufigsten anzutreffen. Die [[Völker/Strixan (Eulenvolk)|Strixan (Eulenvolk)]] gelten als Wissenshüter der Spitzenklasse und stellen einen Großteil der Wächter und Bibliothekare von Grauhalls großer Bibliothek. Die zähen [[Völker/Ursa (Bärenvolk)|Ursa (Bärenvolk)]], aus deren Reihen das Königshaus selbst stammt, kennen sich mit dem harten Leben in den Bergen bestens aus – und sehen Besucher von außerhalb eher ungern, eine Zurückhaltung, die man an beiden Höfen spürt. Die [[Völker/Vulpin (Fuchsvolk)|Vulpin (Fuchsvolk)]] schließlich setzen ihren Scharfsinn gern im Handel ein, um im Geschäft mit dem fernen Wog die besten Preise für die Erze der Insel herauszuschlagen.

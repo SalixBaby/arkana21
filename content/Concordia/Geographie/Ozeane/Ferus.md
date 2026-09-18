@@ -1,0 +1,7 @@
+> _Ferus ist das große Weltmeer, das [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]], [[Concordia/Geographie/Kontinente/Pax/-Pax-|Pax]] und [[Concordia/Geographie/Kontinente/Nox/Nox|Nox]] umgibt – offen, rau und unberechenbar. Wer sich weit hinauswagt, verlässt sich auf ein seetüchtiges Schiff und eine erfahrene Mannschaft._
+
+Ferus ist der offene Ozean außerhalb der Küsten. Unberechenbare Strömungen, plötzliche Stürme und hoher Wellengang machen ihn zu einem gefährlichen Gewässer – nur große, seetüchtige Schiffe wagen sich weit hinaus. Die Gefahr steigt mit der Entfernung von der Küste: in Küstennähe ist Ferus noch vergleichsweise beherrschbar, doch je weiter man sich von Land entfernt, desto rauer und unvorhersehbarer wird das Meer.
+
+An Ferus liegen die Außenküsten der meisten Königreiche von Lux, allen voran [[Concordia/Kontinente/Lux/Vroos|Vroos]] und [[Concordia/Kontinente/Lux/Wog|Wog]], sowie die Insel [[Concordia/Geographie/Kontinente/Pax/-Pax-|Pax]]. Über Ferus führen die einzigen bekannten Routen zum fernen Nox im Norden – eine Reise, die nur wenige wagen.
+
+Im Gegensatz zur ruhigen Bucht [[Concordia/Ozeane/Lavis|Lavis]] im Osten von Lux läuft über Ferus kaum der reguläre Handel zwischen den sechs Königreichen; dafür ist er zu riskant. Ferus ist eher das Gewässer der weiten Fahrt: Handel mit Pax, vereinzelte Expeditionen Richtung Nox, und alles, was jenseits der bekannten Küsten liegt.

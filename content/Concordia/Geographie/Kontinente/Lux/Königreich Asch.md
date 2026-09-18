@@ -1,0 +1,11 @@
+> _Asch ist die Kornkammer von [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]] – flaches, fruchtbares Land im äußersten Süden des Kontinents, das die übrigen fünf Königreiche satt macht._
+
+Asch liegt im äußersten Süden von Lux, direkt an der Bucht [[Concordia/Geographie/Ozeane/Lavis|Lavis]]. Im Landesinneren erhebt sich ein einzelner Vulkan, dessen Asche über Jahrhunderte den Boden ringsum außergewöhnlich fruchtbar gemacht hat – Weizen- und Gerstenfelder reichen bis an den Horizont, durchzogen von Bewässerungsgräben und kleinen Gehöften.
+
+### Land und Wirtschaft
+Wo andere Königreiche von Bergbau, Seehandel oder Zöllen leben, lebt Asch von der Ernte. Getreide, Obst und Vieh aus Asch versorgen die anderen fünf Reiche mit; über Lavis gelangen die Waren im Sommer per Lastkahn nach [[Concordia/Geographie/Kontinente/Lux/Königreich Kron|Königreich Kron]] und von dort weiter in den ganzen Kontinent. Hauptstadt ist **Ährenhort**, direkt an der Küste von Lavis gelegen: weniger eine große Stadt als ein weitläufiges Geflecht aus Kornspeichern, Mühlen und Verladekais, in dem zur Erntezeit die Ernte des ganzen Landes zusammenläuft, bevor sie verschifft wird. Größere Städte gibt es sonst kaum – das Land ist von hunderten kleiner Dörfer und Gehöfte geprägt, die sich lose zu Erntegemeinschaften zusammenschließen.
+
+### Volk und Glaube
+Die Bewohner von Asch gelten als bodenständig, gastfreundlich und wenig streitlustig. Besondere Verehrung gilt [[Concordia/Pantheon/Materia – die Urmutter|Materia – die Urmutter]]: Vor jeder Aussaat und nach jeder Ernte werden ihr kleine Opfergaben aus den ersten und letzten Körnern dargebracht, und viele Bauernhöfe tragen einen einfachen Materia-Schrein am Feldrand.
+
+[[Völker/Elfen|Elfen]], [[Völker/Tabaxi (Katzenvolk)|Tabaxi (Katzenvolk)]] und [[Völker/Veldri (Hasenvolk)|Veldri (Hasenvolk)]] stammen vermutlich ursprünglich aus Asch und sind hier bis heute am häufigsten anzutreffen. Die [[Völker/Elfen|Elfen]] findet man vor allem in den Wäldern oder den Hainen entlang der Flüsse und Bewässerungsgräben, die [[Völker/Tabaxi (Katzenvolk)|Tabaxi (Katzenvolk)]] fühlen sich in den Dörfern und auf den Feldwegen ebenso wohl wie auf Wanderschaft, und die [[Völker/Veldri (Hasenvolk)|Veldri (Hasenvolk)]] sind in den weiten Feldern zuhause.
