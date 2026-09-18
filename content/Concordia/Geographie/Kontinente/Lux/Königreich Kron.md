@@ -1,0 +1,11 @@
+> _Kron ist der größte Hafen und der reichste Handelsplatz von [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]] – hierhin fließen die Waren aller sechs Königreiche und wieder hinaus in die Welt._
+
+Kron liegt an der breitesten und tiefsten Stelle der Bucht [[Concordia/Geographie/Ozeane/Lavis|Lavis]], die von hier aus in offener Fahrt auch das Weltmeer [[Concordia/Geographie/Ozeane/Ferus|Ferus]] erreicht. Diese doppelte Lage – geschützter Binnenhafen an Lavis und einziger Tiefwasserhafen am offenen Meer zugleich – macht die Hauptstadt **Schimmer** zum unangefochten größten Markt des Kontinents: ein Gewirr aus Kais, Speichern, Kontoren und Gildenhallen, in dem bei Tag wie bei Nacht Waren umgeschlagen werden.
+
+### Land und Wirtschaft
+Waren aus [[Concordia/Geographie/Kontinente/Lux/Königreich Asch|Königreich Asch]], [[Concordia/Geographie/Kontinente/Lux/Königreich Ors|Königreich Ors]] und [[Concordia/Geographie/Kontinente/Pax/Königreich Pax|Königreich Pax]] (letztere erst über [[Concordia/Geographie/Kontinente/Lux/Königreich Wog|Königreich Wog]] importiert) laufen in Schimmer zusammen und werden von dort weiterverkauft und weiterverschifft. Die großen Handelsgilden regieren die Stadt quasi mit. Kron gilt als treibende Kraft hinter dem Handels- und Nichtangriffsabkommen – kein anderes Reich profitiert so sehr von offenen Grenzen –, wird aber ebenso oft verdächtigt, es über Zollschlupflöcher zu seinen eigenen Gunsten zu dehnen.
+
+### Volk und Glaube
+Kron ist kosmopolitisch: In Schimmers Gassen trifft man Händler, Seeleute und Reisende aus allen sechs Königreichen und von Pax, und man hört mehr Sprachen und Dialekte als irgendwo sonst auf [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]]. Diese Vielfalt spiegelt sich im Glauben wider – kaum ein anderes Reich unterhält so viele kleine Schreine für [[Concordia/Pantheon/Somnia – die Flüsterin|Somnia – die Flüsterin]], Göttin der Diplomaten, Unterhändler und all jene, die mit Worten statt mit dem Schwert handeln.
+
+[[Völker/Halblinge|Halblinge]], [[Völker/Menschen|Menschen]] und [[Völker/Tieflinge|Tieflinge]] stammen vermutlich ursprünglich aus Kron und sind hier bis heute am häufigsten anzutreffen – eine bunte Mischung, wie sie zu einer Handelsstadt passt, in der jeder mit jedem Geschäfte macht.
