@@ -1,0 +1,5 @@
+> _Nox liegt weit im Norden jenseits von [[Concordia/Ozeane/Ferus|Ferus]], fern von [[Concordia/Geographie/Kontinente/Lux/Lux|Lux]] und allem, was dort geschieht. Kaum jemand war dort und noch weniger sind zurückgekehrt – doch die Gerüchte, die den Weg nach Süden finden, sprechen gleichermaßen von Grauen und von Schätzen._
+
+Nox ist der dritte Kontinent Concordias: ein weit entfernter Fleck im Norden, den man von [[Concordia/Kontinente/Lux/Vroos|Vroos]] aus bei klarem Wetter am Horizont erahnen können soll. Nur wenige Seefahrer haben sich je in seine Nähe gewagt, und auf den meisten Karten ist an seiner Stelle nur ein vager, unbestimmter Umriss eingezeichnet.
+
+Über Nox ist kaum mehr bekannt als Seemannsgarn und Legenden: Geschichten von namenlosem Horror, der dort lauern soll, aber auch von unermesslichen Schätzen, die auf jene warten, die es wagen, dorthin zu reisen. Ob an diesen Geschichten etwas Wahres ist, weiß niemand, der noch spricht.
