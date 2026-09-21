@@ -3,7 +3,7 @@
 ---
 >*Als Aristokrat bist du ein Meister gesellschaftlicher Finesse – ob durch Geburt, Bildung oder bloße Entschlossenheit. Du bewegst dich sicher in den oberen Kreisen, kennst die Sprache der Diplomatie, die Regeln der Etikette und die stillen Spiele der Macht. Vielleicht entstammst du einem alten Geschlecht, vielleicht hast du dir deinen Rang selbst erarbeitet – entscheidend ist, dass du weißt, wie Einfluss entsteht und wie man ihn wahrt. Mit Charme, Taktgefühl und berechnender Präsenz verstehst du es, Menschen zu lenken und Situationen zu deinem Vorteil zu formen. Dein Ruf ist deine Rüstung – und dein Wort oft wirkungsvoller als jedes Schwert.*
 
-- **Klassekategorie:** Kampfklasse
+- **Klassenkategorie:** Kampfklasse
 - **Klassenfähigkeit:** Reputation
 	- Dein Name öffnet dir viele Türen. Du kannst deine Reputation nutzen, um eine Audienz, einen Gefallen oder besondere Behandlung zu erfragen. Deine Reputation wird durch Allianzen, Bündnisse und erfüllte Gefallen gesteigert und durch gebrochene Versprechen und falsche Etikette vermindert.  
 
