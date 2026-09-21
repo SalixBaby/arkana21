@@ -5,7 +5,7 @@
 
 - **Klassenkategorie:** Zauberklasse
 - **Klassenfähigkeit:** Stilles Gebet
-    - Du kannst Zauber einsetzen ohne deine Hände oder Sprache benutzen zu müssen. Ebenfalls können deine überladenen Heil- und Schutzzauber nicht von Sterblichen verhindert werden.
+    - Du kannst Zauber gefahrlos allein durch den Griff oder allein durch den Ruf wirken – dir genügt eine der beiden Komponenten. Ebenfalls können deine überladenen Heil- und Schutzzauber nicht von Sterblichen verhindert werden.
 
 ---
 
