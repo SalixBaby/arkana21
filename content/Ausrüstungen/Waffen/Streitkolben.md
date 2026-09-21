@@ -1,4 +1,4 @@
->Eine stumpfe Waffe, die für schwere Schläge verwendet wird und sich gut eignet, um Rüstungen zu durchbrechen.
+>Eine stumpfe Waffe, die für schwere Schläge verwendet wird und sich gut eignet, um viel Schaden zu verursachen.
 
 - Basisschaden: 1
 - Waffeneigenschaften: [[Ausrüstungen/Waffen/Waffeneigenschaften/Schwer|Schwer]]
