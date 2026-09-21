@@ -3,7 +3,7 @@
 ---
 >*Wissen ist Macht – und du weißt mehr als die meisten. Deine Augen und Ohren sind überall, deine Worte sind scharf wie Dolche, und du verstehst es, Informationen zu beschaffen, die andere lieber verborgen halten würden. Du lieferst Informationen, manipulierst Situationen hinter den Kulissen und bist in der Lage, Verbindungen aufzubauen, die anderen verborgen bleiben.*
 
-- **Klassekategorie:** Kampfklasse
+- **Klassenkategorie:** Kampfklasse
 - **Klassenfähigkeit:** Informationsnetzwerk
     - Du verfügst über ein weit verzweigtes Netzwerk aus Informanten, Händlern und Schuldnern. Mit jedem Gefallen, Handel oder Austausch wächst dein Einfluss – und damit dein Zugang zu seltenen Geheimnissen, wertvollen Ressourcen und diskreter Unterstützung. Dein Netzwerk kann Gerüchte verbreiten, Informationen beschaffen oder verdeckte Aufträge ausführen.
 
