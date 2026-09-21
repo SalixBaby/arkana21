@@ -3,7 +3,7 @@
 ---
 >_Als Dieb bist du ein Meister der Schatten, der Täuschung und der schnellen Finger. Du bewegst dich lautlos durch die Straßen, kennst jede Abkürzung und jedes Versteck. Ob du Wertgegenstände entwendest, dich unbemerkt an Wachen vorbeischleichst oder dich aus scheinbar ausweglosen Situationen befreist – dein Geschick und dein Instinkt machen dich zu einem Überlebenskünstler. Doch nicht alle Diebe sind einfache Taschendiebe. Manche sind Informationshändler, Trickbetrüger oder Einbrecher, die in den höchsten Kreisen verkehren, ohne dass jemand ihre wahre Identität kennt._
 
-- **Klassekategorie:** Kampfklasse
+- **Klassenkategorie:** Kampfklasse
 - **Klassenfähigkeit:** Schnelle Reflexe
     - Du kannst die Aktionen "Verwenden" und "Rückzug" im Kampf durchführen ohne die AP-Kosten zu bezahlen.
 
