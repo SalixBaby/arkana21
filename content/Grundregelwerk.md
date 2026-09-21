@@ -116,7 +116,7 @@ Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkt
 (Nicht vergessen: Helden können aufgrund ihrer Klasse, Variation oder Fähigkeiten ebenfalls zusätzliche Attribute erhalten.)
 
 - [[Attribute/Passiv/Gesundheit|Gesundheit]]: 3 + [[Attribute/Körper/Konstitution|Konstitution]] + (Level x 2)
-- [[#7.4 Manapunkte|Manapunkte]]: [[Attribute/Geist/-Geist-|Geist]] + (Level x 2) (Nur für Zauberklassen)
+- [[#7.4 Manapunkte|Manapunkte]]: [[Attribute/Geist/Arkana|Arkana]] + (Level x 2) (Nur für Zauberklassen)
 - [[Attribute/Passiv/Bewegungsrate|Bewegungsrate]]: (Bewegungsrate des Volkes) + [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
 - [[Attribute/Passiv/Flugweite|Flugweite]]: (Flugweite des Volkes) + [[Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]
 - [[Attribute/Passiv/Sprungweite|Sprungweite]]: (Sprungweite des Volkes) + [[Attribute/Körper/Stärke|Stärke]]
@@ -424,6 +424,9 @@ Die Magie in Arkana21 ist vielseitig und wird in verschiedene Zauberarten untert
 ##### 5.2 Zaubernutzung
 
 **5.2.1 Grundprinzip**
+
+Um einen Zauber zu wirken, braucht ein Charakter mindestens zwei der drei Zauberkomponenten: Griff (freie Hände für Handzeichen), Pfand (verbrauchte Materialkomponenten wie Pulver oder Edelsteine) oder Ruf (gesprochene Formeln).
+
 Zaubern in Arkana21 beruht auf Vorstellungskraft, Konzentration und Willenskraft – nicht auf einer festen Zauberliste. Der Spieler beschreibt, welchen Effekt er erzielen möchte, und legt anschließend eine Arkana-Probe ab. Das Ergebnis entscheidet, ob und wie stark der Zauber gelingt: Ein Erfolg lässt die Magie wie gewünscht wirken, ein Fehlschlag kann den Effekt abschwächen, verformen oder scheitern lassen.
 
 Jeder Zauber liefert dabei entweder Schaden oder einen Effekt als Grundwirkung. Diese Grundwirkung kannst du auf drei Arten verstärken, einzeln oder kombiniert: mit Mana, durch geschicktes Verteilen deiner kostenlosen Grundstufe (Fokuslenkung), oder einfach durch einen richtig guten Wurf.
@@ -448,16 +451,17 @@ Diese Werte gelten automatisch, solange kein Mana investiert wird.
 **5.2.3 Effekte – Referenzliste**
 Ein Zauber, der keinen Schaden verursacht, erzeugt stattdessen einen Effekt. Die folgende Tabelle listet die gängigsten Effekte mit ihrer kostenlosen Grundstufe und ihrer Verstärkung pro investiertem Mana. Mehrere Verstärkungen desselben Effekts lassen sich durch entsprechend mehr Mana kombinieren. Einen hier nicht gelisteten Effekt legt der SL sinngemäß nach demselben Muster fest.
 
-| Effekt | Grundstufe (kein Mana) | Verstärkung pro Mana |
-| --- | --- | --- |
-| Betäubung | Das Ziel erhält 1 Betäubung – das kostet ihm 1 AP in seiner nächsten Runde, danach ist die Betäubung vorbei | +1 weitere Betäubung (mehrere addieren sich, wirken aber nur in dieser einen Runde) |
-| Bewegungseinschränkung | Bewegungsrate des Ziels halbiert sich für 1 Runde | Bewegungsrate sinkt auf 0 (Ziel gilt als Gebunden), oder Dauer +1 Runde |
-| Malus auf Proben | Ziel erhält -3 auf seine nächste Probe | +1 weiteres Ziel, oder der Malus gilt für eine zusätzliche Probe |
-| Geblendet | Ziel erhält -3 auf sichtabhängige Proben für 1 Runde | Der Malus gilt auf alle Proben, oder Dauer +1 Runde |
-| Verängstigt | Ziel muss sich, sofern möglich, vom Zauberwirker wegbewegen, für 1 Runde | Ziel kann den Zauberwirker zusätzlich nicht direkt angreifen, oder Dauer +1 Runde |
-| Vergiftet | Ziel erleidet am Ende seines nächsten Zuges 1 zusätzlichen Schaden | +1 weiterer Schadens-Tick, oder Dauer +1 Runde |
-| Unterstützung (Gestärkt/Fokussiert) | 1 Verbündeter erhält +3 auf seine nächste Probe | +1 weiteres Ziel, oder der Bonus gilt für eine zusätzliche Probe |
-| Umgebungsmanipulation | Eine kleine, rein beschreibende Veränderung der Umgebung ohne Probenzwang | Die Veränderung erzwingt eine Probe, oder wirkt über eine größere Fläche |
+| Effekt                              | Grundstufe (kein Mana)                                                                                      | Verstärkung pro Mana                                                                |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Betäubung                           | Das Ziel erhält 1 Betäubung – das kostet ihm 1 AP in seiner nächsten Runde, danach ist die Betäubung vorbei | +1 weitere Betäubung (mehrere addieren sich, wirken aber nur in dieser einen Runde) |
+| Bewegungseinschränkung              | Bewegungsrate des Ziels halbiert sich für 1 Runde                                                           | Bewegungsrate sinkt auf 0 (Ziel gilt als Gebunden), oder Dauer +1 Runde             |
+| Heilung                             | Kann kleinere Verletzungen heilen, aber keine Gesundheit wiederherstellen                                   | +1 Gesundheit, oder eine größere Verletzung heilen                                  |
+| Malus auf Proben                    | Ziel erhält -3 auf seine nächste Probe                                                                      | +1 weiteres Ziel, oder der Malus gilt für eine zusätzliche Probe                    |
+| Geblendet                           | Ziel erhält -3 auf sichtabhängige Proben für 1 Runde                                                        | Der Malus gilt auf alle Proben, oder Dauer +1 Runde                                 |
+| Verängstigt                         | Ziel muss sich, sofern möglich, vom Zauberwirker wegbewegen, für 1 Runde                                    | Ziel kann den Zauberwirker zusätzlich nicht direkt angreifen, oder Dauer +1 Runde   |
+| Vergiftet                           | Ziel erleidet am Ende seines nächsten Zuges 1 zusätzlichen Schaden                                          | +1 weiterer Schadens-Tick, oder Dauer +1 Runde                                      |
+| Unterstützung (Gestärkt/Fokussiert) | 1 Verbündeter erhält +3 auf seine nächste Probe                                                             | +1 weiteres Ziel, oder der Bonus gilt für eine zusätzliche Probe                    |
+| Umgebungsmanipulation               | Eine kleine, rein beschreibende Veränderung der Umgebung ohne Probenzwang                                   | Die Veränderung erzwingt eine Probe, oder wirkt über eine größere Fläche            |
 
 **5.2.4 Überladen – Verstärkung durch Mana**
 Jeder investierte Manapunkt kauft genau eine der folgenden Verstärkungen:
