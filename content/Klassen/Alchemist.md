@@ -3,7 +3,7 @@
 ---
 >*Als Alchemist beherrschst du die Kunst der Kräuter- und Trankkunde. Du kannst mächtige Tränke und Mixturen herstellen, die heilende oder schädliche Wirkungen haben. Dein Wissen über die Natur ermöglicht es dir, aus einfachen Zutaten mächtige Effekte zu erzielen. Du bist ein Meister der chemischen und pflanzlichen Wissenschaften und verstehst es, deine Umgebung für den Vorteil deines Teams oder zur Schwächung deiner Feinde zu nutzen.*
 
-- **Klassekategorie:** Zauberklasse
+- **Klassenkategorie:** Zauberklasse
 - **Klassenfähigkeit:** Elixirbrauer
 	- Du kannst täglich bis zu (Level + 1) Zauber in Trankform vorbereiten, welche sich bis zu 24 Stunden halten. Diese können überladen sein und auch von anderen verwendet werden. Es muss niedergeschrieben werden, was die Tränke bewirken und beim Einsatz entscheidet eine Arkanaprobe wie potent das Mittel ist.
 
