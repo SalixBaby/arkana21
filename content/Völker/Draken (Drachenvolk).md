@@ -8,12 +8,11 @@ Draken leben in einer von Tradition und Clanstrukturen geprägten Gesellschaft. 
 - Kategorie: Groß
 - Größe: 200–220 cm
 
-**Alter:*
+**Alter:**
 - Lebensspanne: 250 Jahre
 - Reife: 20 Jahre
 
 **Bewegungsrate:**
-
 - Laufen: 5 Felder
 - Schwimmen: 2 Felder
 - Springen: 2 Felder

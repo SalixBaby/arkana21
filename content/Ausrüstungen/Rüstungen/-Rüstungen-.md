@@ -5,3 +5,7 @@ Rüstungen werden in drei Hauptkategorien unterteilt: **[[Ausrüstungen/Rüstung
 Welche Rüstung du trägst, sollte zu deinem Kampfstil passen – oder ob du überhaupt eine trägst. Schwere Rüstungen geben dir Standfestigkeit und Schutz im Zentrum des Gefechts, verlangen dafür jedoch Beweglichkeit. Leichte Rüstungen erlauben dir schnelle Manöver und flexible Positionierung, bieten aber weniger Widerstand gegen Treffer. Mittlere Rüstungen verbinden beide Ansätze zu einem ausgewogenen Kompromiss.
 
 Ebenso ist es eine vollkommen legitime Wahl, **gänzlich auf eine Rüstung zu verzichten**. Wer ohne Schutz kämpft, gewinnt maximale Bewegungsfreiheit und Geschwindigkeit – ideal für jene, die auf Ausweichen, Positionierung oder Präzision setzen. In **Arkana21** ist Schutz nicht nur eine Frage von Stahl und Leder, sondern auch von Bewegung, Timing und Entscheidung.
+
+**Rüstungspunkte:** Jede Rüstung besitzt einen Pool an Rüstungspunkten. Physischer Schaden wird zuerst von diesen Punkten abgezogen, erst der überschüssige Rest erreicht die Gesundheit. Waffenfähigkeiten wie [[Ausrüstungen/Waffen/Waffenfähigkeiten/Durchdringen|Durchdringen]] ignorieren den Rüstungspunkte-Pool vollständig und treffen direkt die Gesundheit.
+
+Ist der Pool einer Rüstung auf 0 gesunken, gilt sie als **kaputt**: Sie bietet keinerlei Schutz mehr, bis sie vollständig repariert wurde. Weder eine kurze noch eine lange Rast füllen die Rüstungspunkte auf – nötig ist stets das zur jeweiligen Rüstung passende Werkzeug und die dafür angegebene Zeit.

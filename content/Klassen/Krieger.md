@@ -35,7 +35,7 @@
 #### **3. Level:**
 
 - **Schmerztoleranz**  Du kannst Schmerzen unterdrücken wie kaum ein anderer. Bei medizinischen Eingriffen, Giften oder Folter bekommst du keine Malus auf Proben.
-- **Kampfrausch**: Solange du dich im Kampf befindest und nicht fliehst oder dich versteckst, erhältst du für jede Runde die der Kampf dauert eine +1 auf deine Angriffsproben.
+- **Kampfeslust**: Solange du dich im Kampf befindest und nicht fliehst oder dich versteckst, erhältst du für jede Runde die der Kampf dauert eine +1 auf deine Angriffsproben.
 
 #### **4. Level:**
 
