@@ -15,7 +15,7 @@
 
 #### **Variationen:**
 
-- **Hextech**: Du kombinierst externe Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.
+- **Fadenwerk**: Du kombinierst externe Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.
     - Wissen und Bonus in Mathematik/Technik oder Handwerk/Metallurgie
     - +2 Zauberausrichtungen
     - Umgang mit [[Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]]
